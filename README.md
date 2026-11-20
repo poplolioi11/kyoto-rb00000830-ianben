@@ -4,11 +4,11 @@
 
 Ianben, by Takeuchi Yoshihiro, is an Edo-period guide to writing medical cases. The Fujikawa Collection at Kyoto University holds this 1843 printing. It compares physicians’ private records with case reports addressed to households and retainers and provides sample cases, forms of address and correspondence. Its appendix gives Japanese glosses for medical terms and sample health reports, documenting medical writing and communication in early modern Japan.
 
-## V0.1.0
+## V0.2.0
 
-提供全冊 29 幅定位，其中第 4 至 28 幅有序、正文或附錄，旁注另列。附錄小字釋義與日文書式保留。本版為 AI 輔助初錄，疑讀與部分原刻標點附圖面定位。
+提供全冊 29 幅定位，其中第 4 至 28 幅有序、正文或附錄，旁注另列。附錄小字釋義與日文書式保留。比對未見初稿的本機 OCR 候選後，回圖裁定採用 12 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-The 29-scan witness is indexed throughout. Scans 4–28 contain the preface, main text or appendices. Printed notes, Japanese glosses and sample letters are represented separately. This is an AI-assisted initial reading with uncertain characters and selected printed marks linked to source locations.
+The 29-scan witness is indexed throughout. Scans 4–28 contain the preface, main text or appendices. Printed notes, Japanese glosses and sample letters are represented separately. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 12 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
@@ -20,9 +20,9 @@ The TXT, JSON and TEI XML share scan and column references. Source images are av
 
 ## 方法與覆核 / Methods and review
 
-由 AI 依固定館方影像逐欄讀字，保留原字、版面與疑讀。原刻圈點以「。」表示，文內全形空格代表版面間隔。人類全文雙校、專家審定、同儕審查及準確率量測尚未進行。實際模型識別與使用量未知。此資料公開供比對與引用，處理程式及影像另存。
+由 AI 依固定館方影像逐欄讀字，保留原字、版面與疑讀。「○」「－」保留原書書式的空位。已能逐字定位的方口點單獨編碼，其餘原刻訓點和小圈點仍可循原圖覆核。人類全文雙校、專家審定、同儕審查及準確率量測尚未進行。實際模型識別與使用量未知。此資料公開供比對與引用，處理程式及影像另存。
 
-An AI assistant transcribed the fixed source images column by column, preserving source forms, layout and uncertain readings. Original circles are rendered as 。 and ideographic spaces represent visible separations in the print. Human proofreading, expert review, peer review and accuracy measurement are pending. The actual model identifiers and usage are unknown.
+An AI assistant transcribed the fixed source images column by column, preserving source forms, layout and uncertain readings. Circles and dashes preserve the blanks in the original forms. Selected printed square dots are encoded separately. The source scans remain the reference for other reading marks and small circles. Human proofreading, expert review, peer review and accuracy measurement are pending. The actual model identifiers and usage are unknown.
 
 ## 引用及訂正 / Citation and corrections
 

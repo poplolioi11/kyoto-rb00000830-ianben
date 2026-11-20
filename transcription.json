@@ -17,11 +17,11 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000830/manifest.json",
     "manifest_sha256": "7c4d6d8829601e5c30c0c87f87cc2287c805bfbfccd60de5e5fcf0bfa20e5ed1",
     "record_id": "RB00000830",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": null,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "醫按辨（1843 年，京都大學 イ/5） / Ianben [On writing medical cases]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -43,7 +43,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "binding-or-cover",
-      "state": "initial-read",
+      "state": "initial",
       "sides": [
         {
           "side": "single",
@@ -69,7 +69,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "binding-or-cover",
-      "state": "initial-read",
+      "state": "initial",
       "sides": [
         {
           "side": "single",
@@ -95,7 +95,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "binding-or-cover",
-      "state": "initial-read",
+      "state": "initial",
       "sides": [
         {
           "side": "single",
@@ -121,7 +121,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -234,7 +234,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -358,7 +358,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "preface-and-opening",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -442,7 +442,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -572,7 +572,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -688,7 +688,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -793,13 +793,6 @@
           "context": "四",
           "candidates": [],
           "note": "左版心「四」。末欄小注逐細行保存；第四欄「會稽」疑讀。"
-        },
-        {
-          "side": "left",
-          "column": 4,
-          "context": "會稽",
-          "candidates": [],
-          "note": "左版心「四」。末欄小注逐細行保存；第四欄「會稽」疑讀。"
         }
       ],
       "observations": "右面：第七欄「入」及第八欄「麤」待核，版心「三」。 左面：左版心「四」。末欄小注逐細行保存；第四欄「會稽」疑讀。"
@@ -819,7 +812,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -941,7 +934,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1306,7 +1299,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1512,7 +1505,29 @@
               "text": "閣下之不例　其脉浮大而數咳嗽時々"
             },
             {
-              "text": "惡寒晡熱盜汗是則爲虛勞之候然愚熟按"
+              "text": "惡寒晡熱盜汗是則爲虛勞之候然愚熟按",
+              "marks": [
+                {
+                  "after": 14,
+                  "mark": "口",
+                  "color": "black"
+                },
+                {
+                  "after": 15,
+                  "mark": "口",
+                  "color": "black"
+                },
+                {
+                  "after": 16,
+                  "mark": "口",
+                  "color": "black"
+                },
+                {
+                  "after": 17,
+                  "mark": "口",
+                  "color": "black"
+                }
+              ]
             }
           ],
           "extras": [
@@ -1624,7 +1639,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1748,7 +1763,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1898,7 +1913,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2040,7 +2055,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2175,7 +2190,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2310,7 +2325,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2489,7 +2504,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2714,7 +2729,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3503,7 +3518,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3533,7 +3548,7 @@
               "text": "壅塞　壅閉　壅滯　太之部　短氣"
             },
             {
-              "text": "濁唾　濁液　禮之"
+              "text": "濁唾　濁沫　濁液　禮之"
             }
           ],
           "extras": [
@@ -3919,6 +3934,18 @@
                 "子バル",
                 "ツバキ"
               ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "濁沫下釋",
+              "text": "子バル／アハ",
+              "color": "black",
+              "language": "ja",
+              "lines": [
+                "子バル",
+                "アハ"
+              ],
+              "column_anchor": 9
             },
             {
               "type": "printed-small-text",
@@ -4413,7 +4440,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -5284,7 +5311,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -5293,7 +5320,7 @@
               "text": "部　噫氣　惡候　安臥　安睡　惡液"
             },
             {
-              "text": "左之部　撮空　舌無芒刺　濕"
+              "text": "左之部　撮空　幾之部　虛煩"
             },
             {
               "text": "翕々發熱　氣逆　肌熱　如狂"
@@ -5388,30 +5415,19 @@
             },
             {
               "type": "printed-small-text",
-              "location": "舌無芒刺下釋",
-              "text": "子ツツヨキトキハ舌ノイボ〳〵ニ針ノ／ヤウナモノガデキルソレガナイ",
+              "location": "虛煩下釋",
+              "text": "ム□ガミエ／ナリテ一ニ",
               "color": "black",
-              "column_anchor": 2,
               "language": "ja",
               "lines": [
-                "子ツツヨキトキハ舌ノイボ〳〵ニ針ノ",
-                "ヤウナモノガデキルソレガナイ"
-              ]
+                "ム□ガミエ",
+                "ナリテ一ニ"
+              ],
+              "column_anchor": 2
             },
             {
               "type": "printed-small-text",
-              "location": "濕下釋",
-              "text": "シツケニアタリ",
-              "color": "black",
-              "column_anchor": 2,
-              "language": "ja",
-              "lines": [
-                "シツケニアタリ"
-              ]
-            },
-            {
-              "type": "printed-small-text",
-              "location": "承上濕之釋",
+              "location": "承上虛煩之釋",
               "text": "ツチ／ガル",
               "color": "black",
               "column_anchor": 3,
@@ -6261,6 +6277,13 @@
           "context": "讝",
           "candidates": [],
           "note": "左版心「十八」。第2欄詞面與右頁相同但依兩面各存；「敦」「几」「寫」「讝」及小字待核。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "虛煩下釋",
+          "candidates": [],
+          "note": "細字原刻部分假名未定，保留缺字標記。"
         }
       ],
       "observations": "右面：牌記與片假名釋文仍有待核處。「芻坐」「脇惕」「痞鞕」以目前可見字形錄。右版心「十七」。 左面：左版心「十八」。第2欄詞面與右頁相同但依兩面各存；「敦」「几」「寫」「讝」及小字待核。"
@@ -6280,7 +6303,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -7100,13 +7123,6 @@
       "issues": [
         {
           "side": "right",
-          "column": 7,
-          "context": "任用",
-          "candidates": [],
-          "note": "右版心「十八」。「任用」「膀光」「膈幕」及小字待核；「肢體」轉為新釋義類。"
-        },
-        {
-          "side": "right",
           "column": 8,
           "context": "膈幕",
           "candidates": [],
@@ -7165,7 +7181,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -7592,7 +7608,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -7614,7 +7630,7 @@
               "language": "ja"
             },
             {
-              "text": "胡湯差上申候右今日御熱退ヽ－－－－－－"
+              "text": "胡湯差上申候右今御熱退ヽ－－－－－－"
             },
             {
               "text": "御諸症共御靜被爲在候以上"
@@ -7651,7 +7667,7 @@
               "language": "ja"
             },
             {
-              "text": "統相譚之上補氣湯差上申候何共御氣遣"
+              "text": "統相談之上補氣湯差上申候何共御氣遣"
             },
             {
               "text": "敷御容躰奉伺候以上"
@@ -7720,20 +7736,6 @@
           "note": "直豎空格符號記作「－」。「御靜」旁字可能墨批，分開記。第五欄「滿」、第六欄「今日」待核。"
         },
         {
-          "side": "right",
-          "column": 6,
-          "context": "今日",
-          "candidates": [],
-          "note": "直豎空格符號記作「－」。「御靜」旁字可能墨批，分開記。第五欄「滿」、第六欄「今日」待核。"
-        },
-        {
-          "side": "left",
-          "column": 4,
-          "context": "相譚",
-          "candidates": [],
-          "note": "左版心「廿一」，欄內書簡留白。第二欄短句假名、第四欄「相譚」及末兩欄「御疲」待核。"
-        },
-        {
           "side": "left",
           "column": null,
           "context": "御疲",
@@ -7758,7 +7760,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -7768,10 +7770,10 @@
               "language": "ja"
             },
             {
-              "text": "何分四逆加人參湯差上申度異々御危篤"
+              "text": "何分四逆加人參湯差上申度呉々御危篤"
             },
             {
-              "text": "思入候御容體奉伺候以上"
+              "text": "恐入候御容體奉伺候以上"
             },
             {
               "text": "月日　醫名如前"
@@ -7874,13 +7876,6 @@
         },
         {
           "side": "right",
-          "column": 7,
-          "context": "綿",
-          "candidates": [],
-          "note": "右第一欄的「足」續前幅「御手」，原文和式。「御危篤」「綿」「猶參」待核。"
-        },
-        {
-          "side": "right",
           "column": 8,
           "context": "猶參",
           "candidates": [],
@@ -7925,7 +7920,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "appendix",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -7999,7 +7994,7 @@
       "native_width": 6016,
       "native_height": 4016,
       "content_role": "binding-or-cover",
-      "state": "initial-read",
+      "state": "initial",
       "sides": [
         {
           "side": "single",

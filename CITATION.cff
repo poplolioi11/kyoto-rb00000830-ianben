@@ -3,7 +3,7 @@ message: If you use this transcription, please cite the dataset version and the 
   copy.
 title: '醫按辨（1843 年，京都大學 イ/5） / Ianben [On writing medical cases]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

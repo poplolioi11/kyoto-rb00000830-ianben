@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -604,7 +604,7 @@
             <ab type="column" n="9" xml:id="f09-l-c09">
               <seg type="diplomatic-text">無位爵則以大夫稱之恐非當</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f09-l-c09">
               <label>末欄小注</label>
               <seg type="diplomatic-text" rend="black">如自記假之／又不必嫌</seg>
             </ab>
@@ -625,10 +625,6 @@
             </ab>
             <ab type="transcription-issue" n="left:7">
               <quote>四</quote>
-              <note type="editorial">左版心「四」。末欄小注逐細行保存；第四欄「會稽」疑讀。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:4">
-              <quote>會稽</quote>
               <note type="editorial">左版心「四」。末欄小注逐細行保存；第四欄「會稽」疑讀。</note>
             </ab>
           </div>
@@ -683,19 +679,19 @@
             <ab type="column" n="6" xml:id="f10-l-c06">
               <seg type="diplomatic-text">東宮　儲君　國母　登遐　聖主</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-l-c05">
               <label>夾於玉座、東宮間的右組小注</label>
               <seg type="diplomatic-text" rend="black">明以降足恭佞媚之風益甚玉体玉坐玉趾／等之辭。等輩之際相稱呼然是唯尺牘中之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-l-c05">
               <label>同上中組小注</label>
               <seg type="diplomatic-text" rend="black">曲詞而至正大之書札無有之若非當稱而／過崇之却似輕曼類朝弄如臣按論斷人之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-l-c05">
               <label>同上左組小注</label>
               <seg type="diplomatic-text" rend="black">重器雖相狎之際可慎而述／之豈輕曼而可乎况高貴乎</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-l-c06">
               <label>表末小字稱號</label>
               <seg type="diplomatic-text" rend="black">皇后　太子</seg>
             </ab>
@@ -742,55 +738,55 @@
             <ab type="column" n="9" xml:id="f11-r-c09">
               <seg type="diplomatic-text">稱世子恐非當</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c01">
               <label>殿下雙行注</label>
               <seg type="diplomatic-text" rend="black">本邦之制唯關白職而稱之以漢國之／例則皇太子亦稱之以下諸王亦稱之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c02">
               <label>嚴命雙行注</label>
               <seg type="diplomatic-text" rend="black">非總府恐難稱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c02">
               <label>台命右旁小注</label>
               <seg type="diplomatic-text" rend="black">三公之命</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c03">
               <label>諸大名之命旁注</label>
               <seg type="diplomatic-text" rend="black">通用之可</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c03">
               <label>臺下旁雙行注</label>
               <seg type="diplomatic-text" rend="black">本貴人／之称</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c03">
               <label>左右旁注</label>
               <seg type="diplomatic-text" rend="black">同上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c04">
               <label>執事旁注</label>
               <seg type="diplomatic-text" rend="black">同</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c04">
               <label>館下與府下間雙行注</label>
               <seg type="diplomatic-text" rend="black">非屋形号之／君恐非當</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c04">
               <label>明府旁雙行注</label>
               <seg type="diplomatic-text" rend="black">以都下／非稱府</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c05">
               <label>節下上端雙行注</label>
               <seg type="diplomatic-text" rend="black">之君恐／非當</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c05">
               <label>節下右旁雙行注</label>
               <seg type="diplomatic-text" rend="black">羽林武家／之介称</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c05">
               <label>帷內旁雙行注</label>
               <seg type="diplomatic-text" rend="black">夫人內／君通称</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-r-c05">
               <label>小君下方雙行注</label>
               <seg type="diplomatic-text" rend="black">同上</seg>
             </ab>
@@ -823,55 +819,55 @@
             <ab type="column" n="9" xml:id="f11-l-c09">
               <seg type="diplomatic-text">先生　健士　干城　良士　良主　賢主</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c02">
               <label>大領主旁雙行注</label>
               <seg type="diplomatic-text" rend="black">無城／之君</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c02">
               <label>明使君旁雙行注</label>
               <seg type="diplomatic-text" rend="black">稱國守／有位之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c03">
               <label>大元老旁雙行注</label>
               <seg type="diplomatic-text" rend="black">諸藩之／大臣</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c03">
               <label>大元臣旁雙行注</label>
               <seg type="diplomatic-text" rend="black">若處一城有一都／之人宜書○○城</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c04">
               <label>夫子上雙行注</label>
               <seg type="diplomatic-text" rend="black">主或○○領主／○○君所患</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c04">
               <label>夫子下雙行注</label>
               <seg type="diplomatic-text" rend="black">孔孟之徒稱師又孔子／對達伯王之使指達伯</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c05">
               <label>列位上方雙行注</label>
               <seg type="diplomatic-text" rend="black">王稱夫子猶非君之子而／稱君子欽稱權宜可用</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c05">
               <label>列位下方雙行注</label>
               <seg type="diplomatic-text" rend="black">漢國称列位／者大衆有位</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c06">
               <label>殂上方雙行注</label>
               <seg type="diplomatic-text" rend="black">爵之人本邦對無九階之位爵／人称列位恐非當</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c06">
               <label>殂下方雙行注</label>
               <seg type="diplomatic-text" rend="black">漢國稱敵／國王者之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c07">
               <label>逝上方雙行注</label>
               <seg type="diplomatic-text" rend="black">死用／之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c07">
               <label>逝下方雙行注</label>
               <seg type="diplomatic-text" rend="black">本邦貴族之未位爵者／人死多用之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f11-l-c07">
               <label>逝字下另組雙行注</label>
               <seg type="diplomatic-text" rend="black">非死言卒入／稱之恐非當</seg>
             </ab>
@@ -917,59 +913,59 @@
             <ab type="column" n="10" xml:id="f12-r-c10">
               <seg type="diplomatic-text">真人</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c02">
               <label>賢大人上雙行注</label>
               <seg type="diplomatic-text" rend="black">称詩歌／人</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c02">
               <label>賢大人下雙行注</label>
               <seg type="diplomatic-text" rend="black">主人／父</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c02">
               <label>家公旁雙行注</label>
               <seg type="diplomatic-text" rend="black">同上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c02">
               <label>母公旁雙行注</label>
               <seg type="diplomatic-text" rend="black">主人／母</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c04">
               <label>令岳上雙行注</label>
               <seg type="diplomatic-text" rend="black">非爲大夫人之／母稱之恐非當</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c04">
               <label>令岳旁雙行注</label>
               <seg type="diplomatic-text" rend="black">稱妻／父</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c04">
               <label>令閨旁小注</label>
               <seg type="diplomatic-text" rend="black">妻</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c05">
               <label>愛旁小注</label>
               <seg type="diplomatic-text" rend="black">娘</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c05">
               <label>鳳雛下雙行注</label>
               <seg type="diplomatic-text" rend="black">茲称／孩兒</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c08">
               <label>大長老下雙行注</label>
               <seg type="diplomatic-text" rend="black">茲祝下或／稱侍者</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c08">
               <label>大知識下雙行注</label>
               <seg type="diplomatic-text" rend="black">茲／稱</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c09">
               <label>大顯者上雙行注</label>
               <seg type="diplomatic-text" rend="black">臺／下</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c09">
               <label>大顯者下雙行注</label>
               <seg type="diplomatic-text" rend="black">修驗／道類</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-r-c09">
               <label>大尊者下雙行注</label>
               <seg type="diplomatic-text" rend="black">釋家／弟子</seg>
             </ab>
@@ -995,24 +991,28 @@
             </ab>
             <ab type="column" n="7" xml:id="f12-l-c07">
               <seg type="diplomatic-text">惡寒晡熱盜汗是則爲虛勞之候然愚熟按</seg>
+              <note type="original-mark" n="14" rend="black">口</note>
+              <note type="original-mark" n="15" rend="black">口</note>
+              <note type="original-mark" n="16" rend="black">口</note>
+              <note type="original-mark" n="17" rend="black">口</note>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c01">
               <label>上書體醫按下雙行注</label>
               <seg type="diplomatic-text" rend="black">書表面紙上者略恭字可／又以俗語書○○樣御不</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c01">
               <label>上書體醫按側雙行注</label>
               <seg type="diplomatic-text" rend="black">豫奉診愚按一條／又可</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c03">
               <label>亞相閣下旁雙行注</label>
               <seg type="diplomatic-text" rend="black">或黃門閣下或○○國大主或○○城／當主○○公等</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c04">
               <label>府醫貟欄小字</label>
               <seg type="diplomatic-text" rend="black">姓　名</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c06">
               <label>不例旁雙行注</label>
               <seg type="diplomatic-text" rend="black">或尊／患</seg>
             </ab>
@@ -1100,7 +1100,7 @@
             <ab type="column" n="9" xml:id="f13-l-c09">
               <seg type="diplomatic-text">春秋曰譬如良醫疾萬變藥亦萬變</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f13-l-c09">
               <label>末欄署名小字</label>
               <seg type="diplomatic-text" rend="black">愚　不肖</seg>
             </ab>
@@ -1155,15 +1155,15 @@
             <ab type="column" n="9" xml:id="f14-r-c09">
               <seg type="diplomatic-text">汗再發雖然非前日並烈之比則是根蔕已</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f14-r-c04">
               <label>左側大字欄旁雙行注</label>
               <seg type="diplomatic-text" rend="black">亞相大國主府主／黃門國大主城主</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f14-r-c04">
               <label>再呈旁小注</label>
               <seg type="diplomatic-text" rend="black">或三呈</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f14-r-c05">
               <label>右記「誠恐」之右旁小字</label>
               <seg type="diplomatic-text" rend="black">百拜</seg>
             </ab>
@@ -1196,7 +1196,7 @@
             <ab type="column" n="9" xml:id="f14-l-c09">
               <seg type="diplomatic-text">稟又不至弱春秋尚富語聲寥々宮調尚存</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f14-l-c04">
               <label>右件醫按下小字</label>
               <seg type="diplomatic-text" rend="black">書記詳略之処以○口別之可合考</seg>
             </ab>
@@ -1277,11 +1277,11 @@
             <ab type="column" n="8" xml:id="f15-l-c08">
               <seg type="diplomatic-text">重取之頗實胸脇逆滿腹痛嘔吐痛從臍傍</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f15-l-c03">
               <label>表面字例右細欄</label>
               <seg type="diplomatic-text" rend="black">面宜書○國大主或府大主○上件俗</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f15-l-c03">
               <label>表面字例左細欄</label>
               <seg type="diplomatic-text" rend="black">或亞相公或黃門公不豫書又可</seg>
             </ab>
@@ -1373,7 +1373,7 @@
             <ab type="column" n="9" xml:id="f16-l-c09">
               <seg type="diplomatic-text">非僕不肖所企及尚賢大夫　諸國手裁</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f16-l-c09">
               <label>賢大夫旁雙行注</label>
               <seg type="diplomatic-text" rend="black">賢執／事</seg>
             </ab>
@@ -1429,11 +1429,11 @@
             <ab type="column" n="8" xml:id="f17-r-c08">
               <seg type="diplomatic-text">似痺非痺似疼非疼常惕々如人之將捕状</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-r-c01">
               <label>「判」字下及側的小字</label>
               <seg type="diplomatic-text" rend="black">凡示左右侍臣者自稱僕可表,示左右侍／臣而實直上之者自稱愚可書愚或名與／名直上之書自己之名之下書誠恐誠惶亦／可不書又可不至不遜專示左右者固不用</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-r-c05">
               <label>姓名欄旁小字</label>
               <seg type="diplomatic-text" rend="black">姓　名</seg>
             </ab>
@@ -1521,7 +1521,7 @@
             <ab type="column" n="9" xml:id="f18-r-c09">
               <seg type="diplomatic-text">熱爲度</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c07">
               <label>藥末字旁双行注</label>
               <seg type="diplomatic-text" rend="black">以秘禁方／不明著此</seg>
             </ab>
@@ -1554,27 +1554,27 @@
             <ab type="column" n="9" xml:id="f18-l-c09">
               <seg type="diplomatic-text">爲同藩大臣述醫按</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-l-c04">
               <label>醫臣欄旁雙行字例</label>
               <seg type="diplomatic-text" rend="black">姓／名</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-l-c04">
               <label>醫臣欄底雙行</label>
               <seg type="diplomatic-text" rend="black">誠恐誠惶／頓首謹上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-l-c05">
               <label>駕下欄首小字</label>
               <seg type="diplomatic-text" rend="black">臣</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-l-c06">
               <label>職旁雙行小注</label>
               <seg type="diplomatic-text" rend="black">或竢／其罪</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-l-c07">
               <label>○○旁小字</label>
               <seg type="diplomatic-text" rend="black">名</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-l-c08">
               <label>君旁小字</label>
               <seg type="diplomatic-text" rend="black">妾</seg>
             </ab>
@@ -1629,11 +1629,11 @@
             <ab type="column" n="9" xml:id="f19-r-c09">
               <seg type="diplomatic-text">落異則書己邑落姓名同邑則書同邑</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-r-c03">
               <label>醫貟姓名欄側小字</label>
               <seg type="diplomatic-text" rend="black">姓　名</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-r-c07">
               <label>草莽醫民欄側小字</label>
               <seg type="diplomatic-text" rend="black">姓名</seg>
             </ab>
@@ -1666,39 +1666,39 @@
             <ab type="column" n="9" xml:id="f19-l-c09">
               <seg type="diplomatic-text">咽喉不利　痿弱　陰陽兩感</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c07">
               <label>陰證旁雙行日文</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウハベエ子ツノ／ミヘヌ傷寒</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c07">
               <label>噫逆旁雙行日文</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒヤク／リノコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c07">
               <label>痿躄旁雙行日文</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ハナ／ヘルヤセヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c08">
               <label>噎食旁雙行日文</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シヨクジニ／ムセルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c08">
               <label>遺尿旁雙行日文</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ノ出ルヲ／オボエヌコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c08">
               <label>遺溺旁雙行小字</label>
               <seg type="diplomatic-text" rend="black">同／上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c08">
               <label>遺精旁雙行日文</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">モウラウ／スルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c09">
               <label>咽喉不利旁雙行日文</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ノドノゲハイ／アシキコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-l-c09">
               <label>痿弱旁雙行日文</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ニテモ何／ニテモナヘルコト</seg>
             </ab>
@@ -1745,123 +1745,123 @@
             <ab type="column" n="9" xml:id="f20-r-c09">
               <seg type="diplomatic-text">保之部　暴病　翻胃　崩中</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c01">
               <label>胃中不和旁釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱブクロノ中／ガメグラヌ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c01">
               <label>胃氣旁釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">餗ヲヤシナフ／食物ノ氣</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c02">
               <label>倦下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">モノニツカレ／タイクツスル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c02">
               <label>勞動下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダニアタル／ホトウゴクコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c02">
               <label>勞氣下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ロウノ／ケザシ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c02">
               <label>勞熱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ロウノ／子ツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c03">
               <label>露睛下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子テモ目ヲ／ヲサヘギラヌ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c03">
               <label>煩躁下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒドウシユワ／ナカルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c03">
               <label>煩渴下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ワルクク／カハク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c04">
               <label>煩悶下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ワルクク／モダヘル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c04">
               <label>發黃下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダニキバ／ミカテバコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c04">
               <label>發斑下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダウチヘ發／イロノヤフナモノカ出ル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c05">
               <label>半身不遂下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カタ身／叶ヌ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c05">
               <label>白屑下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アタマノ／フケ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c05">
               <label>白癜下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シロナ／マヅ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c05">
               <label>梅核下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">咽ノウチニ梅ノ／タ子ガヒツヽヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c06">
               <label>承上梅核之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">テアルヤウ／ニヲホヘル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c06">
               <label>反覆轉倒下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">フクカヘリウツブシニ／ナリシテジュウナガル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c06">
               <label>冒家下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ソラカブキウツ／トリスルクセノ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c07">
               <label>冒家釋尾</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アル／人</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c07">
               <label>胞中下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ブクロ／ノウチ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c07">
               <label>日晡所潮熱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒクレガタ／カライツデ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c08">
               <label>承上日晡所潮熱釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">デモ出／ル子ツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c08">
               <label>乳病下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">チヽ○／○ヤマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c08">
               <label>尿血下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ニ血／ガデル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c08">
               <label>肉瞤下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハダガヒク／〳〵ウゴク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c08">
               <label>乳中下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウブヤ／ノウチ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c09">
               <label>暴病下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ニワカ／ヤマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c09">
               <label>翻胃下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">胃反トモ云食／物ヲモトス病</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-r-c09">
               <label>崩中下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">月水ノ大／ヲクスルコト</seg>
             </ab>
@@ -1894,127 +1894,127 @@
             <ab type="column" n="9" xml:id="f20-l-c09">
               <seg type="diplomatic-text">線　臨產　臨盆　留之部　類中</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c01">
               <label>崩漏下釋</label>
               <seg type="diplomatic-text" rend="black">同／上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c01">
               <label>飽悶下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">食ヲクヒスギャウ／ニ腹ノハルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c01">
               <label>膨脹下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラハリ／イキレル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c02">
               <label>承上便結之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">大便ノケツシルコト○小／便ナレバ小便結ト云</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c02">
               <label>便閉下釋</label>
               <seg type="diplomatic-text" rend="black">同／上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c02">
               <label>表裏下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウハベ／ソコ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c02">
               <label>痞囊下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">コノ病名本事方ニ／始テイヅ反胃ニ似テ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c03">
               <label>承上痞囊之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">胃ノ中ニ別ニフクロデキテ食／物ヲ腸ヘクダラズモドス病</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c03">
               <label>疼痛下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シタルク／イタム</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c03">
               <label>盜汗下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ア／セ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c04">
               <label>承上溏泄之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">大便ユルミ／下ルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c04">
               <label>吐酸下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">スキ水／ヲハク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c04">
               <label>吞酸下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">スキ水ガデソウデ出ヌ／ム子ノヤケルトイフ病</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c05">
               <label>承上痘勢雄壯之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ホウソウノ勢ノ／ヨスギルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c05">
               <label>痘疔下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハウソウノ／クロキツブ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c05">
               <label>吐逆下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハキノ／ツヨキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c06">
               <label>承上直視之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">目ヲミ／ツメル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c06">
               <label>蓐勞下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">サンロ／ウノコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c06">
               <label>衄血下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハナ／ヂ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c06">
               <label>中暍下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">チウ／シヨ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c06">
               <label>中熱下釋</label>
               <seg type="diplomatic-text" rend="black">同／上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c06">
               <label>中濕残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シツ／キニ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c07">
               <label>承上中濕之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アタ／ル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c07">
               <label>畜熱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチニ下地／アル子ツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c07">
               <label>畜血下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">タマツテアル／オケツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c07">
               <label>沈着下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチラニヒツヒテ／アルモノヲイフ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c08">
               <label>承上腎間動之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲソノシタ／ノドキ〳〵</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c08">
               <label>裏急後重下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">大便イケミダチ／コミヘハルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c09">
               <label>承上理線之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">イトヲヒ子ルヤウ／ナ手モゾリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c09">
               <label>臨產下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">サンノ出／カヽリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c09">
               <label>類中残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">チ／ウ</seg>
             </ab>
@@ -2059,145 +2059,149 @@
               <seg type="diplomatic-text">壅塞　壅閉　壅滯　太之部　短氣</seg>
             </ab>
             <ab type="column" n="9" xml:id="f21-r-c09">
-              <seg type="diplomatic-text">濁唾　濁液　禮之</seg>
+              <seg type="diplomatic-text">濁唾　濁沫　濁液　禮之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c01">
               <label>承上類中之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ブウノ／ルイ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c01">
               <label>類疫下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱキノ／ルイ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c01">
               <label>流注下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">タン〴〵アシ／ニナツテクル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c01">
               <label>羸瘦下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤセノ／ツヨキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c01">
               <label>羸人下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヨハキ／人</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c02">
               <label>嘔逆下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱツキ／ツヨキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c02">
               <label>嘔吐下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱツキ／ハク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c02">
               <label>嘔氣下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱヅク／キミ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c02">
               <label>惡熱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ワルクキ／子ツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c03">
               <label>瘀熱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">トヾコヲツテ／アル子ツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c03">
               <label>瘀血下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">トヾコヲツ／アルチ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c03">
               <label>懊憹下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ムナウチ言ニイヘヌ／アシクルシムコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c04">
               <label>感冒下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カルキ／風ノコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c04">
               <label>渇下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ドヲカハキ／湯茶ヲノム</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c04">
               <label>乾燥下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">口中ニテモ肌ニテモ／ウルホヒナクカハラグ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c04">
               <label>咳嗽下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">セキス／ハブキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c05">
               <label>咳唾稠粘下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">セキデルツバキ／子バルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c05">
               <label>疥瘡下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒゼン／ガサ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c05">
               <label>咯血下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">チヲ一クチ／ヅヽハク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c05">
               <label>咳血下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">セキ／ニチ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c06">
               <label>承上咳血釋尾</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">一ジ／ル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c06">
               <label>額上出汗下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒタヒバカリ／デルアセ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c06">
               <label>乾血下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カハキツイ／タフルチ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c06">
               <label>寒厥下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチガヒヘテ／手足カヒヘル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c07">
               <label>承上疳勞之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">小兒ノセンカラ／デルロウガイ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c07">
               <label>疳瘡下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カンノ／クサ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c07">
               <label>解㑊下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アツサニヤム／ヤマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c07">
               <label>腰痛の釋頭</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">コ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c08">
               <label>承上腰痛之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ノイ／タミ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c08">
               <label>壅塞下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲサハリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c08">
               <label>壅閉旁釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲサハリ／トドヲル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c08">
               <label>壅滯下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲサハリ／トドコヲル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c09">
               <label>承上短氣之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">イキヅカヒノ／セハシキコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c09">
               <label>濁唾下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子バル／ツバキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c09">
+              <label>濁沫下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子バル／アハ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-r-c09">
               <label>濁液下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">内ヲウルホスウルホヒ／ノクサツタモノ</seg>
             </ab>
@@ -2230,135 +2234,135 @@
             <ab type="column" n="9" xml:id="f21-l-c09">
               <seg type="diplomatic-text">膿潰　久之部　苦滿　快通　快利</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c01">
               <label>攣急下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒキツリ／ヒツハル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c01">
               <label>冷汗下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ツメタ／キアセ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c01">
               <label>卒病下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ニハカ／ヤマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c01">
               <label>瘡口下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シユモ／ツノ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c02">
               <label>承上瘡口之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ク／チ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c02">
               <label>賊風下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">戸障子ノアヒ／ヨリクルカゼ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c02">
               <label>卒倒下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ニハカニ／タヲルヽ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c02">
               <label>頭眩下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アタマブラツキ／目マヒスル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c03">
               <label>項強痛下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アタマクビノ大スヂ／コハバリイタム</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c03">
               <label>頭汗下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アタマバカリ／デルアセ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c03">
               <label>爲傳下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤマヒガヨクノケイ／ヘウツルトス</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c04">
               <label>爲不傳下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツカヤドカヘ／セヌトス</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c04">
               <label>熱煩下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツニテジュツ／カルクルシム</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c04">
               <label>熱渴残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツチ／ノドヲ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c05">
               <label>承上熱渴之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">テハ／ス</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c05">
               <label>熱厥下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツカコモリテ／手足カヒヘル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c05">
               <label>熱在皮膚下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツガウハベニ／アル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c05">
               <label>熱在骨髓残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツカ／ヲクヘ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c06">
               <label>承上熱在骨髓之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハイツ／メ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c06">
               <label>內傷下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチラカノ／ヲコルヤマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c06">
               <label>難治之證下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ナホリニクヒ／ヤウタイ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c06">
               <label>內毒残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチラ／モヤツヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c07">
               <label>承上內毒之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">テイル／ドク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c07">
               <label>膿血下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウミ／チ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c07">
               <label>膿汁下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウミ／シル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c07">
               <label>夢寐不寧下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤスラカニ／子ラレヌ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c08">
               <label>承上夢遺之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">モウ／ヰウ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c08">
               <label>鬱症下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">キノモツレセヲ／テルヤマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c08">
               <label>鬱冒下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウツトリトキ／ヌケノヤウナ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c09">
               <label>膿潰下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウミニナリ／ツブレル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c09">
               <label>苦滿下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">クルシク／ハル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c09">
               <label>快通下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">コヽロヨク／ツウジル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f21-l-c09">
               <label>快利残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">コヽロ／ヨク</seg>
             </ab>
@@ -2425,139 +2429,139 @@
             <ab type="column" n="9" xml:id="f22-r-c09">
               <seg type="diplomatic-text">血室　血暈　元氣　元陽不足</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c01">
               <label>承上快利之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">タ／ル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c01">
               <label>苦煩下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ワルククツ／ナガル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c01">
               <label>頑麻下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ワルノハタ／シビレル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c01">
               <label>蚘厥下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">クハイチウニテ／手足マテヒヘタ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c01">
               <label>君火残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">人ノ／モチ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c02">
               <label>承上君火之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">マヘノヌク／モリヤウキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c02">
               <label>滿面下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カホ一／ハイ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c02">
               <label>滿腫下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">皮一ハイ／ノハレ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c03">
               <label>承上經驗之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">クスリノキヽメノ／ヲホヘアルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c03">
               <label>經病下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">女ノ血ノ／ミチ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c03">
               <label>健忘下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">モノワ／スレ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c03">
               <label>結核下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">スツクシタカタ／マリクサ子バイ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c04">
               <label>承上核起之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ブツクシタモノ／カデキル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c04">
               <label>經閉下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ケイコウ／メグラヌ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c04">
               <label>堅癖下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カタキカタ／マリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c04">
               <label>血症下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">チノデタ○或ハ内ニアル血ノ／ヤマヒコトニモ用</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c05">
               <label>厥寒下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ノヒヘル／ヲオホヘル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c05">
               <label>厥逆下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ノツヨク／ヒヘル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c05">
               <label>胸脇逆滿下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ム子バリニナリ／タルハラ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c06">
               <label>承上胸痛之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ム子ノ／イタミ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c06">
               <label>眩暈下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">メマヒ／ノコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c06">
               <label>踡臥下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ヲチヾメ／子ルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c06">
               <label>不解下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツナントノホドケ／ヌト云コト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c06">
               <label>結胸残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ムナ／サキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c07">
               <label>承上結胸之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヘコリカタ／マルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c07">
               <label>倦怠憚於動作下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">モノニタイクツシテタケ／イモメンドウナ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c07">
               <label>瘈残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ヲ／ヒキツル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c08">
               <label>瘈病下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ヒキツ／ルヤマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c08">
               <label>夾痰下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">タンヲマゼル／ヤマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c08">
               <label>夾熱下利残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子／ツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c09">
               <label>承上下利之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">タ／リ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c09">
               <label>血室下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">チノタマリ／ドコロ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c09">
               <label>血暈下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">血ガデヽノ／メマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c09">
               <label>元氣下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">人ノ天ヨリ／受ルキ</seg>
             </ab>
@@ -2590,131 +2594,131 @@
             <ab type="column" n="9" xml:id="f22-l-c09">
               <seg type="diplomatic-text">溺血　轉胞　轉矢氣　安之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c01">
               <label>承上元陽不足之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤウキノタモト／ビンボウシタ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c01">
               <label>腐爛下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">クサレ／タダル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c01">
               <label>不仁下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シビレル／ヤウナ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c01">
               <label>跗上腫下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">足ノコウ／ノハレ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c02">
               <label>腐肉下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">クサレタ／ニク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c02">
               <label>腹中疼痛下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラウチヒツ○急痛モ／ハリイタム</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c02">
               <label>腹中急残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラウ／チヒツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c03">
               <label>承上腹中急之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハル／コト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c03">
               <label>腹中拘急下釋</label>
               <seg type="diplomatic-text" rend="black">大抵／同上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c03">
               <label>腹中雷鳴下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラウチカミナリノ○切痛トアレバ／ヤウニグルグルナル シキリニイタム</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c04">
               <label>承上腹滿之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラガ／ハル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c04">
               <label>拘攣下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒキツリ／ヒツハル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c04">
               <label>拘急下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒツハリ／ツヨキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c04">
               <label>項背強下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">クビスヂカラセ／ガツヨクハル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c05">
               <label>狐臭下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ワキ／ガ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c05">
               <label>痼疾下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">コジクレタ／マツタヤマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c05">
               <label>骨痛下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ホ子ウ／ヅク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c05">
               <label>交骨不開残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">サンノトキニ／一ネチガヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c06">
               <label>承上交骨不開之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ラカ／ヌ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c06">
               <label>黑瘠下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">クロヤセニ／ヤセル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c06">
               <label>合病下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">初ヨリ二經一シヨ○併病ハ初ハ一經ヤミ／ニヤムヲ云 又一經一シヨニナリヤム〳〵</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c07">
               <label>骨節疼痛下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ホ子ブシシク／クイタム</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c07">
               <label>更衣下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">タイベン／ユクコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c07">
               <label>口眼喎斜下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">目クチ／ユガム</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c08">
               <label>承上語言蹇渋之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">モノカイヒ／ニクヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c08">
               <label>潮熱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">時刻ヲカキ／リデル子ツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c08">
               <label>腸鳴下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラワタ／ナル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c08">
               <label>腸癰残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラワ／タニデ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c09">
               <label>承上腸癰之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">キタデキ／モノ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c09">
               <label>溺血下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ニ血／イヅルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c09">
               <label>轉胞下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ノ出口ガモツレ／セウベンデヌ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c09">
               <label>轉矢氣下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヘノ／コト</seg>
             </ab>
@@ -2754,7 +2758,7 @@
               <seg type="diplomatic-text">部　噫氣　惡候　安臥　安睡　惡液</seg>
             </ab>
             <ab type="column" n="2" xml:id="f23-r-c02">
-              <seg type="diplomatic-text">左之部　撮空　舌無芒刺　濕</seg>
+              <seg type="diplomatic-text">左之部　撮空　幾之部　虛煩</seg>
             </ab>
             <ab type="column" n="3" xml:id="f23-r-c03">
               <seg type="diplomatic-text">翕々發熱　氣逆　肌熱　如狂</seg>
@@ -2777,175 +2781,171 @@
             <ab type="column" n="9" xml:id="f23-r-c09">
               <seg type="diplomatic-text">心下動　身痛　身熱　腫脹</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c01">
               <label>噫氣下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲクビ／ノケ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c01">
               <label>惡候下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アシキヤウ／ダイ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c01">
               <label>安臥下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">コヽロヨク／子ル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c01">
               <label>安睡下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">コヽロヨク／子ムル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c02">
               <label>承上惡液之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチノウルホヒ／クサレタモノ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c02">
               <label>撮空下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ナニモナキトコロヲ／ツマム手モブリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
-              <label>舌無芒刺下釋</label>
-              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツツヨキトキハ舌ノイボ〳〵ニ針ノ／ヤウナモノガデキルソレガナイ</seg>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c02">
+              <label>虛煩下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ム□ガミエ／ナリテ一ニ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
-              <label>濕下釋</label>
-              <seg type="diplomatic-text" rend="black" xml:lang="ja">シツケニアタリ</seg>
-            </ab>
-            <ab type="page-feature" subtype="printed-small-text">
-              <label>承上濕之釋</label>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c03">
+              <label>承上虛煩之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ツチ／ガル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c03">
               <label>翕々發熱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">パツ〳〵ト／デル子ツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c03">
               <label>氣逆下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">キガノ／ボセル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c03">
               <label>肌熱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハダニ子ツ／ノアルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c03">
               <label>如狂下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">キチガヒ／ノヤウナ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c04">
               <label>驚悸下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">モノニヲビヘ／ムナサワギ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c04">
               <label>驚搐下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲビヘ／ビクツク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c04">
               <label>脇惕下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">スヂヒキツリ／ヲトルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c04">
               <label>筋攣下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">スヂヒツ／ハル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c04">
               <label>吃逆旁小字</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">キツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c05">
               <label>承上吃逆之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シヤ／クリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c05">
               <label>芻坐下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">イモクシ／ミツチヤ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c05">
               <label>脉絕下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ミヤク／アガル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c05">
               <label>脉和下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ミヤクヨク／ナルコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c05">
               <label>脉沈残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">脉／シ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c06">
               <label>承上脉沈之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ツミウコ／ニウツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c06">
               <label>濇下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シブク／フナ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c06">
               <label>緊下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シコニテ／ヒツバル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c06">
               <label>弦下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウハベテ／ヒツバル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c06">
               <label>微下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カスカ／ナル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c06">
               <label>細下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ホソ／シ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c06">
               <label>滑下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤドリ／ナイ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c06">
               <label>結残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">脉ノウツ／カズスグ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c07">
               <label>承上結之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">チクシテ／ウチキレ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c07">
               <label>促下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">セハシクウツテ／ウチキレル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c07">
               <label>代下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">セングリカ／ワル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c07">
               <label>弱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヨハ／キ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c07">
               <label>動下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">フトクシテ／タヨリナヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c08">
               <label>嗇々惡寒下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ジミ〳〵シメツケル／ヤウナサムケ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c08">
               <label>心下痞鞕下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ムナサキツカヘ／カタマル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c08">
               <label>心下悸下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ムナサキドキ〳〵／ムナサワギ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c09">
               <label>心下動下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ムナサキノ／ドウキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c09">
               <label>身痛下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダウチ／イタム</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c09">
               <label>身熱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">肌熱ニ似テソコ／ニテツヨキ子ツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c09">
               <label>腫脹下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハレフ／クル</seg>
             </ab>
@@ -2978,131 +2978,131 @@
             <ab type="column" n="9" xml:id="f23-l-c09">
               <seg type="diplomatic-text">讝語　泄寫　折傷　漸々</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c01">
               <label>腫滿下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">一ハイニ／ハレル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c01">
               <label>宿酲下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">酒ノ二日／ヨヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c01">
               <label>自汗下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒトリデノ／アセ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c01">
               <label>脣口乾燥下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">クチビルクチ／カハラグ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c02">
               <label>心煩下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シンヤラシエツ／ナガル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c02">
               <label>舌無芒刺下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツツヨキトキハ舌ノイボ〳〵ニ針ノ／ヤウナモノガデキルソレガナイ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c02">
               <label>濕下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シツケニアタリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c03">
               <label>小便淋瀝下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">小便チビ〳〵／ホカデヌ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c03">
               <label>小腹滿如敦狀下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シタハラガハツテオサカ／ヅキヲフセタヤウナ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c03">
               <label>几々小字</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シヨ〳〵</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c04">
               <label>承上几々之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カタノハリ／ツヨキコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c04">
               <label>手足攣蜷下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">手足カ／ナハヌ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c04">
               <label>失溲下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ヲ／ハヅス</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c04">
               <label>嗜臥下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子テバカ／リイル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c05">
               <label>噦逆下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ツヨキシヤ／クリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c05">
               <label>越經下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">傷寒十二日スキテ／子ツノサメヌヲ云</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c05">
               <label>壞病下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ナホリソコ子タ／ヤマヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c06">
               <label>引日下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒニチカ／カル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c06">
               <label>微熱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">スコシノ／子ツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c06">
               <label>微渴下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">スコシノ／カワキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c06">
               <label>微溏下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">スコシ大便／カクダル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c07">
               <label>承上鼻息鼾之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハナイキガイヅレ／イビキヲカク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c07">
               <label>摸床下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ドコロヲサグリ／ニハステモブリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c07">
               <label>妄語下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ワケモナイコト／シウハコトイフ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c08">
               <label>妄言下釋</label>
               <seg type="diplomatic-text" rend="black">同／上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c08">
               <label>悶絕下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">モタヘクルシミ／イキシレル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c08">
               <label>聲啞下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">コヘガ／カレル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c08">
               <label>消渴残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">食モノ飲／モノツ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c09">
               <label>承上消渴之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">タムセウ／ニクウ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c09">
               <label>讝語下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウハ○讝聲ハ同ジコトヲイク／ヘンモイフヲ云</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c09">
               <label>泄寫下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラク／ダル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c09">
               <label>折傷下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチミ／クヂキ</seg>
             </ab>
@@ -3137,6 +3137,10 @@
               <quote>讝</quote>
               <note type="editorial">左版心「十八」。第2欄詞面與右頁相同但依兩面各存；「敦」「几」「寫」「讝」及小字待核。</note>
             </ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>虛煩下釋</quote>
+              <note type="editorial">細字原刻部分假名未定，保留缺字標記。</note>
+            </ab>
           </div>
         </div>
         <pb n="24" facs="#f24" />
@@ -3169,123 +3173,123 @@
             <ab type="column" n="9" xml:id="f24-r-c09">
               <seg type="diplomatic-text">爪甲　腠理　雙胎　頭腦　絡脉</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c01">
               <label>惡風下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">風ニアタルト水ヲ／カブルヤウニ覺ル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c01">
               <label>清穀不止下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">食物生ニテ下リ／ヤマヌ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c01">
               <label>絕汗下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シニシナ／ノアセ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c01">
               <label>喘咳残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ゼ／リ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c02">
               <label>承上喘咳之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ゼリイヒ／セク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c02">
               <label>喘滿下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">痰ガセリ／ツメル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c02">
               <label>戰汗下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">フルヒガデヽ／アセヲスル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c02">
               <label>戰慄下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">フルヒノ／ツヨキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c02">
               <label>舌胎残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シタニコケノ／ツクコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c03">
               <label>承上舌胎之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">胎ハアツヲモヌシメリ○無皮トハ舌タヾレイボ〳〵／シタ舌ヲ云 ナシニ皮ノナキヤウニミヘル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c03">
               <label>相火下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">人ノウゴクヨリ／出ル火ノコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c05">
               <label>胃中下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱブクロ／ノウチ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c05">
               <label>陰莖下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヘノ／コ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c05">
               <label>陰門下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲメ／コ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c05">
               <label>陰事下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ツルム／コト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c05">
               <label>陰所下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">内ワカクル／トコロ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c06">
               <label>陰卵下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">キン／タマ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c06">
               <label>委中下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒザノウラオリカヾミノ／クネミテ脉ノウツトコロ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c06">
               <label>六腑下釋</label>
               <seg type="diplomatic-text" rend="black">胃膽膀光大腸／小腸心包絡</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c07">
               <label>任用下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">鼻ノシタヨリ前／ノミ中通リ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c07">
               <label>膀胱下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ノアル／トコロ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c07">
               <label>督脉下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">鼻ノ上ヨリウシロヘマハ／リセノミ中ドフリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c08">
               <label>人迎下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ミヽノシタノトノ／ワキニアル脉</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c08">
               <label>地倉脉下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">口ノ両ワキニ／アル脉</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c08">
               <label>膈幕下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラワタノ○幕原／フリ ナリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c09">
               <label>爪甲下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ツメノ／ウヘ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c09">
               <label>腠理下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ケア／ナ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c09">
               <label>雙胎下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">フタ／ゴ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c09">
               <label>頭腦下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アタマノ／ヅゲン</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-r-c09">
               <label>絡脉下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダノアホ／スヂニリ</seg>
             </ab>
@@ -3318,149 +3322,145 @@
             <ab type="column" n="9" xml:id="f24-l-c09">
               <seg type="diplomatic-text">小腹　正氣　寸口脉</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c01">
               <label>腦後上二細欄</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">○溢ルトイヘバフトル／兆ムトイフハホソル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c01">
               <label>腦後下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウシロノ／ミヅクボ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c01">
               <label>肩背下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カタ／セナカ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c01">
               <label>牙齒下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">キ／バ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c02">
               <label>股胸下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アバラ／ム子</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c02">
               <label>顴骨下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ホウ／ホ子</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c02">
               <label>血室下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">血ノタマリ／ドコロ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c02">
               <label>骨髓下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ホ子ホ子ノ中／ノアブラ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c03">
               <label>五藏下釋</label>
               <seg type="diplomatic-text" rend="black">肺肝脾／心腎</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c03">
               <label>缺盆下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ノドノ両方骨／ノクボミノ処</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c03">
               <label>口吻下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">クチノ／ワキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c03">
               <label>口角下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">口ノ／スミ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c03">
               <label>睪丸残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">キン／タマ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c04">
               <label>穀道下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シリノ／アナ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c04">
               <label>趺陽脉下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アシノコウ／ノミヤク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c04">
               <label>榮衛下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">榮ハ内ヲマワリウルホスキ／衛ハ外ヲマワリマモルキ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c05">
               <label>三部脉下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">一トフリ脉／ヲミル処</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c05">
               <label>三焦下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">胸ヨリ上ヲ上焦ト云胸ヨリ臍マテヲ／中焦ト云臍ヨリ下ヲ下焦ト云</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c06">
               <label>承上鳩尾之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ミゾ／ヲチ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c06">
               <label>期門下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ミゾヲチヨリ二寸／バカリ横ノ下ニ有</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c06">
               <label>玉門下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">陰門／ノコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c06">
               <label>面部下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カホノ／コト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c06">
               <label>四肢下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">手ト／アシ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c07">
               <label>承上神穴之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヘ／ソ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c07">
               <label>手掌下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">テノヒラ○足ノウラハ○湧泉／足心ノ穴</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c07">
               <label>尺澤下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">手ノフリカヾミ／脉ノウツトコロ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c07">
               <label>百會残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲド／ノコ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c08">
               <label>鼻梁骨下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ハナバシ／ラ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c08">
               <label>臂膞下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">臂ハウデヨリヒヂマデ／膞ハヒヂヨリカタマデノ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c08">
               <label>牝戶下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">陰門／ノコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c08">
               <label>尾骶骨残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カメノ／ヲ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c09">
               <label>小腹下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シタ／ハラ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c09">
               <label>正氣下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">人ノ生アル／モトノ氣</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f24-l-c09">
               <label>寸口脉下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">一通リ脉ヲミルヒトサシ／ユビノアタル所</seg>
             </ab>
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：右版心「十八」。「任用」「膀光」「膈幕」及小字待核；「肢體」轉為新釋義類。 左面：左版心「十九」。「股胸」「臂膞」「骶」與細字待覆核，牙根接下一欄首字「子」。</ab>
-            <ab type="transcription-issue" n="right:7">
-              <quote>任用</quote>
-              <note type="editorial">右版心「十八」。「任用」「膀光」「膈幕」及小字待核；「肢體」轉為新釋義類。</note>
-            </ab>
             <ab type="transcription-issue" n="right:8">
               <quote>膈幕</quote>
               <note type="editorial">右版心「十八」。「任用」「膀光」「膈幕」及小字待核；「肢體」轉為新釋義類。</note>
@@ -3511,115 +3511,115 @@
             <ab type="column" n="7" xml:id="f25-r-c07">
               <seg type="diplomatic-text">溫々欲吐　房事　陽物</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c02">
               <label>異物下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">シヌルト云／トキ用ユ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c02">
               <label>乳汁下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">チヽ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c02">
               <label>白飲下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">サユ／ノコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c02">
               <label>和解下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤハラゲ／ホドク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c03">
               <label>承上涼補之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">熱ヲサマス／ヲギナイコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c03">
               <label>溫補下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アタヽメ／ヲギナヒ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c03">
               <label>水漿下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ユミヅ／食物</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c03">
               <label>涼劑下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツヲサマス／クスリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c03">
               <label>寒劑下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒヤス／クスリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c04">
               <label>承上冷飲之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">藥ニテモ湯ニテ／モサマシテモチユル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c04">
               <label>熱服下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アツクシテ／モチユ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c04">
               <label>熱飲下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">アツイノ／ミモノ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c04">
               <label>熱稀粥下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">湯ノヲヽキ／カユ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c05">
               <label>承上糜粥之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カユ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c05">
               <label>倉卒下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ニハカ／ノコト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c05">
               <label>粘着下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">子バリ／ツク</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c05">
               <label>經驗下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">クスリノ／キヽメ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c05">
               <label>擺藥下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">フリダシ／グスリ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c05">
               <label>稟受残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ウ／マ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c06">
               <label>承上稟受之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">レツ／キ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c06">
               <label>文火下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ソロ〳〵／火</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c06">
               <label>武火下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ニワカ／火</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c06">
               <label>溫覆下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">風ノアタラヌヨウ／アタヽカニカブル</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c06">
               <label>遍身熱々残釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダ／ウチシ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c07">
               <label>承上遍身熱々之釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">メジメ〳〵／スルホド</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c07">
               <label>溫々欲吐下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ムカ〳〵シテ／ハキソフナ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c07">
               <label>房事下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ツルム／コト</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c07">
               <label>陽物下釋</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヘノ／コ</seg>
             </ab>
@@ -3652,11 +3652,11 @@
             <ab type="column" n="9" xml:id="f25-l-c09">
               <seg type="diplomatic-text">御容體書</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-l-c09">
               <label>摺紙圖上二處題記</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">四ツ／折</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-l-c09">
               <label>摺紙圖內文字</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">御容躰／〳敷</seg>
             </ab>
@@ -3671,7 +3671,7 @@
         </div>
         <pb n="26" facs="#f26" />
         <div n="26" type="scan" subtype="appendix">
-          <div type="page-face" n="right">
+          <div type="page-face" n="right" xml:lang="ja">
             <ab type="column" n="1" xml:id="f26-r-c01">
               <seg type="diplomatic-text">－－－樣從－月－日御頭痛御熱氣強御脉</seg>
             </ab>
@@ -3688,7 +3688,7 @@
               <seg type="diplomatic-text">腹滿之狀有伺候ニ付宋板傷寒論中之大柴</seg>
             </ab>
             <ab type="column" n="6" xml:id="f26-r-c06">
-              <seg type="diplomatic-text">胡湯差上申候右今日御熱退ヽ－－－－－－</seg>
+              <seg type="diplomatic-text">胡湯差上申候右今御熱退ヽ－－－－－－</seg>
             </ab>
             <ab type="column" n="7" xml:id="f26-r-c07">
               <seg type="diplomatic-text">御諸症共御靜被爲在候以上</seg>
@@ -3699,12 +3699,12 @@
             <ab type="column" n="9" xml:id="f26-r-c09">
               <seg type="diplomatic-text">－月－日　－－</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-r-c07">
               <label>御靜右側淡墨</label>
               <seg type="diplomatic-text" rend="black">愈</seg>
             </ab>
           </div>
-          <div type="page-face" n="left">
+          <div type="page-face" n="left" xml:lang="ja">
             <ab type="column" n="1" xml:id="f26-l-c01">
               <seg type="diplomatic-text">同</seg>
             </ab>
@@ -3715,7 +3715,7 @@
               <seg type="diplomatic-text">追々御氣力御疲被爲在候相伺候ニ付私共一</seg>
             </ab>
             <ab type="column" n="4" xml:id="f26-l-c04">
-              <seg type="diplomatic-text">統相譚之上補氣湯差上申候何共御氣遣</seg>
+              <seg type="diplomatic-text">統相談之上補氣湯差上申候何共御氣遣</seg>
             </ab>
             <ab type="column" n="5" xml:id="f26-l-c05">
               <seg type="diplomatic-text">敷御容躰奉伺候以上</seg>
@@ -3732,15 +3732,15 @@
             <ab type="column" n="9" xml:id="f26-l-c09">
               <seg type="diplomatic-text">－－－樣御容體追々御疲甚敷昨夕分御手</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-l-c02">
               <label>豫旁小字</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ザヨ／メゾンジ</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-l-c02">
               <label>初起後兩細欄</label>
               <seg type="diplomatic-text" rend="black">隨其疾長短應／其時可書</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-l-c09">
               <label>甚旁小字</label>
               <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲモ</seg>
             </ab>
@@ -3759,14 +3759,6 @@
               <quote>滿</quote>
               <note type="editorial">直豎空格符號記作「－」。「御靜」旁字可能墨批，分開記。第五欄「滿」、第六欄「今日」待核。</note>
             </ab>
-            <ab type="transcription-issue" n="right:6">
-              <quote>今日</quote>
-              <note type="editorial">直豎空格符號記作「－」。「御靜」旁字可能墨批，分開記。第五欄「滿」、第六欄「今日」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:4">
-              <quote>相譚</quote>
-              <note type="editorial">左版心「廿一」，欄內書簡留白。第二欄短句假名、第四欄「相譚」及末兩欄「御疲」待核。</note>
-            </ab>
             <ab type="transcription-issue" n="left:None">
               <quote>御疲</quote>
               <note type="editorial">左版心「廿一」，欄內書簡留白。第二欄短句假名、第四欄「相譚」及末兩欄「御疲」待核。</note>
@@ -3775,15 +3767,15 @@
         </div>
         <pb n="27" facs="#f27" />
         <div n="27" type="scan" subtype="appendix">
-          <div type="page-face" n="right">
+          <div type="page-face" n="right" xml:lang="ja">
             <ab type="column" n="1" xml:id="f27-r-c01">
               <seg type="diplomatic-text">足御厥冷被爲在候ニ付私共一統相談之上</seg>
             </ab>
             <ab type="column" n="2" xml:id="f27-r-c02">
-              <seg type="diplomatic-text">何分四逆加人參湯差上申度異々御危篤</seg>
+              <seg type="diplomatic-text">何分四逆加人參湯差上申度呉々御危篤</seg>
             </ab>
             <ab type="column" n="3" xml:id="f27-r-c03">
-              <seg type="diplomatic-text">思入候御容體奉伺候以上</seg>
+              <seg type="diplomatic-text">恐入候御容體奉伺候以上</seg>
             </ab>
             <ab type="column" n="4" xml:id="f27-r-c04">
               <seg type="diplomatic-text">月日　醫名如前</seg>
@@ -3803,16 +3795,16 @@
             <ab type="column" n="9" xml:id="f27-r-c09">
               <seg type="diplomatic-text">殿之上御禮可申上候以上</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-r-c06">
               <label>書旁小字</label>
               <seg type="diplomatic-text" rend="black">奉書半切</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-r-c07">
               <label>爲側雙行字例</label>
               <seg type="diplomatic-text" rend="black">歲末／中元</seg>
             </ab>
           </div>
-          <div type="page-face" n="left">
+          <div type="page-face" n="left" xml:lang="ja">
             <ab type="column" n="1" xml:id="f27-l-c01">
               <seg type="diplomatic-text">月日</seg>
             </ab>
@@ -3840,7 +3832,7 @@
             <ab type="column" n="9" xml:id="f27-l-c09">
               <seg type="diplomatic-text">殿仕候御序之節宜御取成御沙汰被下</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c03">
               <label>空名旁小字</label>
               <seg type="diplomatic-text" rend="black">姓</seg>
             </ab>
@@ -3853,10 +3845,6 @@
             </ab>
             <ab type="transcription-issue" n="right:2">
               <quote>御危篤</quote>
-              <note type="editorial">右第一欄的「足」續前幅「御手」，原文和式。「御危篤」「綿」「猶參」待核。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:7">
-              <quote>綿</quote>
               <note type="editorial">右第一欄的「足」續前幅「御手」，原文和式。「御危篤」「綿」「猶參」待核。</note>
             </ab>
             <ab type="transcription-issue" n="right:8">
@@ -3879,7 +3867,7 @@
         </div>
         <pb n="28" facs="#f28" />
         <div n="28" type="scan" subtype="appendix">
-          <div type="page-face" n="right">
+          <div type="page-face" n="right" xml:lang="ja">
             <ab type="column" n="1" xml:id="f28-r-c01">
               <seg type="diplomatic-text">度奉賴上候以上</seg>
             </ab>
