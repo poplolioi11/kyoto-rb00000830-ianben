@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you use this transcription, please cite the dataset version and the source
+  copy.
+title: '醫按辨（1843 年，京都大學 イ/5） / Ianben [On writing medical cases]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/kyoto-rb00000830-ianben
+keywords:
+- 醫按辨
+- 医按弁
+- 竹內好裕
+- 醫案書式
+- 醫療溝通史
+- 華和醫語
+- 江戶醫學史
+- Ianben
+- Takeuchi Yoshihiro
+- medical case records
+- medical history
+- kanbun
+- Fujikawa Collection

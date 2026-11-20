@@ -1,0 +1,3932 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>醫按辨</title>
+        <title type="alternate">Ianben</title>
+        <author>竹內好裕</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>日本京都</settlement>
+            <repository>京都大學附屬圖書館</repository>
+            <collection>富士川文庫</collection>
+            <idno>イ/5</idno>
+            <altIdentifier>
+              <idno>RB00000830</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>竹內好裕論醫按書式的江戶典籍，含自記與對外醫按、稱號表、診療書例，附好謙編次的病名日文注和御容體書。原件全冊 29 幅，附錄第 19–28 幅。圓圈與直線為原書表格占位符，本文漢文，附錄混用和文及片假名。</p>
+              <ref target="https://rmda.kulib.kyoto-u.ac.jp/item/rb00000830">館方書目</ref>
+              <ref target="https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00000830/manifest.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>天保十四年（1843）刊本，卷首序署「天保十四癸卯」。凡例署年、干支依原刻轉錄。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>書面與欄按影像實際順序。文字、細注及可定位原筆標記分層，疑字及未錄位置由材料指出。</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lzh">漢文</language>
+        <language ident="ja">日文</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p1" xml:id="f01">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00001_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="2" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p2" xml:id="f02">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00002_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="3" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p3" xml:id="f03">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00003_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="4" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p4" xml:id="f04">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00004_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="5" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p5" xml:id="f05">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00005_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="6" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p6" xml:id="f06">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00006_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="7" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p7" xml:id="f07">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00007_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="8" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p8" xml:id="f08">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00008_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="9" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p9" xml:id="f09">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00009_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="10" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p10" xml:id="f10">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00010_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="11" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p11" xml:id="f11">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00011_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="12" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p12" xml:id="f12">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00012_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="13" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p13" xml:id="f13">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00013_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="14" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p14" xml:id="f14">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00014_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="15" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p15" xml:id="f15">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00015_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="16" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p16" xml:id="f16">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00016_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="17" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p17" xml:id="f17">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00017_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="18" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p18" xml:id="f18">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00018_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="19" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p19" xml:id="f19">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00019_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="20" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p20" xml:id="f20">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00020_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="21" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p21" xml:id="f21">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00021_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="22" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p22" xml:id="f22">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00022_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="23" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p23" xml:id="f23">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00023_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="24" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p24" xml:id="f24">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00024_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="25" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p25" xml:id="f25">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00025_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="26" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p26" xml:id="f26">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00026_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="27" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p27" xml:id="f27">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00027_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="28" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p28" xml:id="f28">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00028_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="29" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00000830/canvas/p29" xml:id="f29">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00000830%2FRB00000830_00029_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="binding-or-cover">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：灰色書帙正面，右側藍布脊，左連繫帶，無可辨正文。</ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="binding-or-cover">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：書帙攤開的脊籤「醫按辨」「竹內好裕」。藍邊館籤底部見「イ」「5」。</ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="binding-or-cover">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：藍色原封面雙邊題籤「醫按辨　全」，首字磨損。右上館籤「イ」「5」。</ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="preface-and-opening">
+          <div type="page-face" n="right">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f04-l-c01">
+              <seg type="diplomatic-text">醫按辨序</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02">
+              <seg type="diplomatic-text">夫之有縱於人全乃四肢人全四肢而非人失</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03">
+              <seg type="diplomatic-text">去体而非文是文擧之一所似者此著也</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04">
+              <seg type="diplomatic-text">豈直世刀圭家醫楊住々多不自省而失</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05">
+              <seg type="diplomatic-text">歩者余知此書一出必而歷然以發覺</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-l-c06">
+              <seg type="diplomatic-text">則文擧之於醫林亦席一隅也而余</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-l-c07">
+              <seg type="diplomatic-text">別又有一云曰文者言之效也言者意之</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-l-c08">
+              <seg type="diplomatic-text">發也言同而言別百般長短奇正離合</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：前封裡無正文，紙面有汙漬和摺痕。 左面：左頁為行草序，第二欄「夫之有縱」「人全乃四肢」、第三欄「去体」、第四欄「醫楊住々」、第五欄「歩者」「必而歷然」、第六欄「席一隅」及第七欄「效」待核。朱色方印覆過書題及相鄰欄頭，黑色圖章及其他朱印另見原圖。 左面：白文印「富士川游寄贈」依外欄長方印；黑橢圓館藏章記「183409」「大7. 3. 31」。</ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>夫之有縱</quote>
+              <note type="editorial">左頁為行草序，第二欄「夫之有縱」「人全乃四肢」、第三欄「去体」、第四欄「醫楊住々」、第五欄「歩者」「必而歷然」、第六欄「席一隅」及第七欄「效」待核。朱色方印覆過書題及相鄰欄頭，黑色圖章及其他朱印另見原圖。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>人全乃四肢</quote>
+              <note type="editorial">左頁為行草序，第二欄「夫之有縱」「人全乃四肢」、第三欄「去体」、第四欄「醫楊住々」、第五欄「歩者」「必而歷然」、第六欄「席一隅」及第七欄「效」待核。朱色方印覆過書題及相鄰欄頭，黑色圖章及其他朱印另見原圖。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>去体</quote>
+              <note type="editorial">左頁為行草序，第二欄「夫之有縱」「人全乃四肢」、第三欄「去体」、第四欄「醫楊住々」、第五欄「歩者」「必而歷然」、第六欄「席一隅」及第七欄「效」待核。朱色方印覆過書題及相鄰欄頭，黑色圖章及其他朱印另見原圖。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>醫楊住々</quote>
+              <note type="editorial">左頁為行草序，第二欄「夫之有縱」「人全乃四肢」、第三欄「去体」、第四欄「醫楊住々」、第五欄「歩者」「必而歷然」、第六欄「席一隅」及第七欄「效」待核。朱色方印覆過書題及相鄰欄頭，黑色圖章及其他朱印另見原圖。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>歩者</quote>
+              <note type="editorial">左頁為行草序，第二欄「夫之有縱」「人全乃四肢」、第三欄「去体」、第四欄「醫楊住々」、第五欄「歩者」「必而歷然」、第六欄「席一隅」及第七欄「效」待核。朱色方印覆過書題及相鄰欄頭，黑色圖章及其他朱印另見原圖。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>必而歷然</quote>
+              <note type="editorial">左頁為行草序，第二欄「夫之有縱」「人全乃四肢」、第三欄「去体」、第四欄「醫楊住々」、第五欄「歩者」「必而歷然」、第六欄「席一隅」及第七欄「效」待核。朱色方印覆過書題及相鄰欄頭，黑色圖章及其他朱印另見原圖。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:6">
+              <quote>席一隅</quote>
+              <note type="editorial">左頁為行草序，第二欄「夫之有縱」「人全乃四肢」、第三欄「去体」、第四欄「醫楊住々」、第五欄「歩者」「必而歷然」、第六欄「席一隅」及第七欄「效」待核。朱色方印覆過書題及相鄰欄頭，黑色圖章及其他朱印另見原圖。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>效</quote>
+              <note type="editorial">左頁為行草序，第二欄「夫之有縱」「人全乃四肢」、第三欄「去体」、第四欄「醫楊住々」、第五欄「歩者」「必而歷然」、第六欄「席一隅」及第七欄「效」待核。朱色方印覆過書題及相鄰欄頭，黑色圖章及其他朱印另見原圖。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="preface-and-opening">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f05-r-c01">
+              <seg type="diplomatic-text">孫吳阮瞻之語輔之乘屑惟適其宜</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02">
+              <seg type="diplomatic-text">而已則文豈必法也乎哉又豈不必法也乎</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03">
+              <seg type="diplomatic-text">哉是云操觚之匠全具焉而後可以與語</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04">
+              <seg type="diplomatic-text">文也及其屬序附記以贅之</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05">
+              <seg type="diplomatic-text">天保十四癸卯七月既望</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-r-c06">
+              <seg type="diplomatic-text">竹窗老人　源　寛</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-r-c07">
+              <seg type="diplomatic-text">竹內　好謙　書</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f05-l-c01">
+              <seg type="diplomatic-text">凡例</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-l-c02">
+              <seg type="diplomatic-text">一　余性駑劣殊拙于作文然本文所述古來</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-l-c03">
+              <seg type="diplomatic-text">稱醫按者前記後書而古今以爲一體之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-l-c04">
+              <seg type="diplomatic-text">文色來豈默然忍見此陋習乎所以著此</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-l-c05">
+              <seg type="diplomatic-text">辨也</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-l-c06">
+              <seg type="diplomatic-text">一　此辨固不足係大方之齒牙一爲不知書</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-l-c07">
+              <seg type="diplomatic-text">記之別者示其徑路而已故所宜詳每字</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-l-c08">
+              <seg type="diplomatic-text">傍加口點所宜略加○點庶幾詳略易曉</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f05-l-c09">
+              <seg type="diplomatic-text">一　稱呼唯示其大略隨時乘宜則在乎其人</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：行草序尾。首欄「孫吳阮瞻」「乘屑」、第三欄「全具」、署名「寛」待核。右面下方四枚黑印頗淡。 左面：版心可見「序一」（右）、「序二」（左），左頁兩種圈點是原刻符號。第二欄「駑」、第九欄「乘宜」待核。</ab>
+            <ab type="transcription-issue" n="right:1">
+              <quote>孫吳阮瞻</quote>
+              <note type="editorial">行草序尾。首欄「孫吳阮瞻」「乘屑」、第三欄「全具」、署名「寛」待核。右面下方四枚黑印頗淡。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:1">
+              <quote>乘屑</quote>
+              <note type="editorial">行草序尾。首欄「孫吳阮瞻」「乘屑」、第三欄「全具」、署名「寛」待核。右面下方四枚黑印頗淡。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>全具</quote>
+              <note type="editorial">行草序尾。首欄「孫吳阮瞻」「乘屑」、第三欄「全具」、署名「寛」待核。右面下方四枚黑印頗淡。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>寛</quote>
+              <note type="editorial">行草序尾。首欄「孫吳阮瞻」「乘屑」、第三欄「全具」、署名「寛」待核。右面下方四枚黑印頗淡。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>駑</quote>
+              <note type="editorial">版心可見「序一」（右）、「序二」（左），左頁兩種圈點是原刻符號。第二欄「駑」、第九欄「乘宜」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>乘宜</quote>
+              <note type="editorial">版心可見「序一」（右）、「序二」（左），左頁兩種圈點是原刻符號。第二欄「駑」、第九欄「乘宜」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="preface-and-opening">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f06-r-c01">
+              <seg type="diplomatic-text">欲使識者不爲妄稱之笑耳</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-r-c02">
+              <seg type="diplomatic-text">天保十一年甲子八月朔於平安城南淡々齋</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-r-c03">
+              <seg type="diplomatic-text">竹內好裕誌</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f06-l-c01">
+              <seg type="diplomatic-text">醫按辨</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-l-c02">
+              <seg type="diplomatic-text">若狹　北海竹內好裕　著</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-l-c03">
+              <seg type="diplomatic-text">余壯年客遊四方其在南勢時一醫生以醫</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-l-c04">
+              <seg type="diplomatic-text">按一條屬余乞正余覽問曰欲示人乎自錄</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-l-c05">
+              <seg type="diplomatic-text">者乎生曰是往日所示病家之按也余曰示</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-l-c06">
+              <seg type="diplomatic-text">人者書也自錄者記也詳略宜異夫唐宋以</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-l-c07">
+              <seg type="diplomatic-text">來諸書所載醫按者自以備後考又示子弟</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-l-c08">
+              <seg type="diplomatic-text">後生者也故先以俞廷玉年四旬患疫等之</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f06-l-c09">
+              <seg type="diplomatic-text">語發端或以羅山人年六十因患等之言起</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：凡例尾，原書明作「天保十一年甲子」。干支與該年通常換算不同，保留原刻待核。 左面：左面書題、署名與正文分欄；「俞廷玉」待核。右半淡灰字多為透頁。</ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>天保十一年甲子</quote>
+              <note type="editorial">凡例尾，原書明作「天保十一年甲子」。干支與該年通常換算不同，保留原刻待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>俞廷玉</quote>
+              <note type="editorial">左面書題、署名與正文分欄；「俞廷玉」待核。右半淡灰字多為透頁。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="7" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f07-r-c01">
+              <seg type="diplomatic-text">筆若夫示病者必宜先言僕熟診賢兄之所</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-r-c02">
+              <seg type="diplomatic-text">患若其與家人及傍觀醫生者則宜言僕熟</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-r-c03">
+              <seg type="diplomatic-text">診○○君之所患而後入後段焉今足下之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-r-c04">
+              <seg type="diplomatic-text">文先以○○生歲三十患疫之辭發端是則</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-r-c05">
+              <seg type="diplomatic-text">自錄之文體也而末段反言是唯述管見尚</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-r-c06">
+              <seg type="diplomatic-text">徯諸賢之高評則是又示人之語也首尾異</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-r-c07">
+              <seg type="diplomatic-text">趣書記淆雜恐非宜矣生曰僕不學今受明</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-r-c08">
+              <seg type="diplomatic-text">誨始知書記之別未識在昔何人遺此陋習</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f07-r-c09">
+              <seg type="diplomatic-text">乎爾來不止此人往々有之頃日又見京師</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f07-l-c01">
+              <seg type="diplomatic-text">諸名家就諸侯之召所述醫按者數條率與</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-l-c02">
+              <seg type="diplomatic-text">此相同其起筆必云○○侯歲幾旬或奉診</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-l-c03">
+              <seg type="diplomatic-text">○○太守等之文而至其末段反言唯述</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-l-c04">
+              <seg type="diplomatic-text">管見或不堪慚愧之至或偏徯侍醫各位之</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-l-c05">
+              <seg type="diplomatic-text">高評之語或文辭過尊崇或似不遜蓋從前</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-l-c06">
+              <seg type="diplomatic-text">醫家漫見漢人醫書中所載醫按襲其体以</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-l-c07">
+              <seg type="diplomatic-text">致此不知改之何無具眼之士乎是余所以</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-l-c08">
+              <seg type="diplomatic-text">有小弁之怨也凡我醫流留心于文事者百</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f07-l-c09">
+              <seg type="diplomatic-text">中之一二其他皆追勢利規苞苴之徒也亦</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第六欄「徯」、七欄「淆」待核。○○為正文原刻姓名占位符。 左面：第四欄「偏徯」、第八欄「小弁」與第九欄「規」待核。左版心「二」。</ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>徯</quote>
+              <note type="editorial">第六欄「徯」、七欄「淆」待核。○○為正文原刻姓名占位符。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>淆</quote>
+              <note type="editorial">第六欄「徯」、七欄「淆」待核。○○為正文原刻姓名占位符。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>偏徯</quote>
+              <note type="editorial">第四欄「偏徯」、第八欄「小弁」與第九欄「規」待核。左版心「二」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>小弁</quote>
+              <note type="editorial">第四欄「偏徯」、第八欄「小弁」與第九欄「規」待核。左版心「二」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>規</quote>
+              <note type="editorial">第四欄「偏徯」、第八欄「小弁」與第九欄「規」待核。左版心「二」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>二</quote>
+              <note type="editorial">第四欄「偏徯」、第八欄「小弁」與第九欄「規」待核。左版心「二」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="8" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f08-r-c01">
+              <seg type="diplomatic-text">何足與議或有因此以發省者耶乃不揣固</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-r-c02">
+              <seg type="diplomatic-text">陋摘其要領以作此書欲令其知徑路以不</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-r-c03">
+              <seg type="diplomatic-text">取大方之笑云</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-r-c04">
+              <seg type="diplomatic-text">或曰汪石山醫按中有答人之書此則示道</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-r-c05">
+              <seg type="diplomatic-text">路相隔之人也今身造彼猶如其所爲無乃</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-r-c06">
+              <seg type="diplomatic-text">失宜乎余曰文者載言者也言豈有遠近乎</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-r-c07">
+              <seg type="diplomatic-text">凡如示人之醫按則選采古人之書並尺牘</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-r-c08">
+              <seg type="diplomatic-text">中前後之辭以用之而可高貴之醫按則本</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f08-r-c09">
+              <seg type="diplomatic-text">抵視上書之躰如樂毅答燕惠王之書則外</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f08-l-c01">
+              <seg type="diplomatic-text">臣上外君之躰也韓退之上宰相之書則下</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-l-c02">
+              <seg type="diplomatic-text">官上上官之躰也彼貴吾賤惡得不如是哉</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-l-c03">
+              <seg type="diplomatic-text">文辭言語謙己尊彼者禮也然稱呼過尊崇</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-l-c04">
+              <seg type="diplomatic-text">却非禮也譬如玉躰聖躰等稱可用之于天</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-l-c05">
+              <seg type="diplomatic-text">子而不可施之于人臣幸呈之于無文僭驕</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-l-c06">
+              <seg type="diplomatic-text">之主尚可若呈之于好文有識之君大非所</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-l-c07">
+              <seg type="diplomatic-text">宜焉以微々之諛言取媚於人有志之士所</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-l-c08">
+              <seg type="diplomatic-text">恥也不如執其正</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f08-l-c09">
+              <seg type="diplomatic-text">當時本邦之治與夏殷周三代封建相似而</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第八、九欄的「本抵視」待核，末字「外」接左面。 左面：左版心「三」；第五欄「僭驕」和第七欄「微々」候核。</ab>
+            <ab type="transcription-issue" n="right:9">
+              <quote>外</quote>
+              <note type="editorial">第八、九欄的「本抵視」待核，末字「外」接左面。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>三</quote>
+              <note type="editorial">左版心「三」；第五欄「僭驕」和第七欄「微々」候核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>僭驕</quote>
+              <note type="editorial">左版心「三」；第五欄「僭驕」和第七欄「微々」候核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>微々</quote>
+              <note type="editorial">左版心「三」；第五欄「僭驕」和第七欄「微々」候核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="9" facs="#f09" />
+        <div n="9" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f09-r-c01">
+              <seg type="diplomatic-text">其名稱制度大不同蓋周有公侯伯子男五</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f09-r-c02">
+              <seg type="diplomatic-text">等而諸侯者五等君之通稱也我邦有土之</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f09-r-c03">
+              <seg type="diplomatic-text">君中古稱之大名而不主五等之爵則不可</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f09-r-c04">
+              <seg type="diplomatic-text">稱諸侯彼國諸侯者死曰薨而本邦大名稱</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f09-r-c05">
+              <seg type="diplomatic-text">薨之君不過三四而別有稱之貴人非治國</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f09-r-c06">
+              <seg type="diplomatic-text">之主則是與彼異制也故稱大名書侯者自</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f09-r-c07">
+              <seg type="diplomatic-text">記之假稱也若入大名之國述呈上之醫按</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f09-r-c08">
+              <seg type="diplomatic-text">書○○侯則非尊之而類麤略不遜彼邦周</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f09-r-c09">
+              <seg type="diplomatic-text">代齊晉之臣或蘇張之徒入魯衛之國稱其</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f09-l-c01">
+              <seg type="diplomatic-text">國君無有稱魯侯衛侯者大抵入王國曰大</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f09-l-c02">
+              <seg type="diplomatic-text">王入侯國曰明侯古來之通稱也如太守之</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f09-l-c03">
+              <seg type="diplomatic-text">稱本邦之制於上野常陸稱之是親王之所</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f09-l-c04">
+              <seg type="diplomatic-text">任也如稱大名比之恐過尊稱又不會稽太</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f09-l-c05">
+              <seg type="diplomatic-text">守長沙太守類之漢國之太守者多非世及</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f09-l-c06">
+              <seg type="diplomatic-text">之任有土之主也</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f09-l-c07">
+              <seg type="diplomatic-text">本邦之制四位五位之人死曰卒周代列國</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f09-l-c08">
+              <seg type="diplomatic-text">之制大夫曰卒士曰不祿本邦大名之大臣</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f09-l-c09">
+              <seg type="diplomatic-text">無位爵則以大夫稱之恐非當</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>末欄小注</label>
+              <seg type="diplomatic-text" rend="black">如自記假之／又不必嫌</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第七欄「入」及第八欄「麤」待核，版心「三」。 左面：左版心「四」。末欄小注逐細行保存；第四欄「會稽」疑讀。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>入</quote>
+              <note type="editorial">第七欄「入」及第八欄「麤」待核，版心「三」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>麤</quote>
+              <note type="editorial">第七欄「入」及第八欄「麤」待核，版心「三」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>三</quote>
+              <note type="editorial">第七欄「入」及第八欄「麤」待核，版心「三」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>四</quote>
+              <note type="editorial">左版心「四」。末欄小注逐細行保存；第四欄「會稽」疑讀。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>會稽</quote>
+              <note type="editorial">左版心「四」。末欄小注逐細行保存；第四欄「會稽」疑讀。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="10" facs="#f10" />
+        <div n="10" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f10-r-c01">
+              <seg type="diplomatic-text">本邦之大名召他國之醫則必使以漢文述</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f10-r-c02">
+              <seg type="diplomatic-text">其考按者不知從何時起然臣子之情不忍</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f10-r-c03">
+              <seg type="diplomatic-text">以君父至尊貴之重器委付無文之凡手故也</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f10-r-c04">
+              <seg type="diplomatic-text">耳而醫之巧雖不必在於有文者亦無文者</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f10-r-c05">
+              <seg type="diplomatic-text">之非所能宜乎其如是</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f10-r-c06">
+              <seg type="diplomatic-text">醫之爲職伍於弄媒之臣矣然臨其治病則</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f10-r-c07">
+              <seg type="diplomatic-text">不可不以師之道也尊貴醫按姑置之至如</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f10-r-c08">
+              <seg type="diplomatic-text">士庶則不可不以爲師之禮是則非倨傲爲</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f10-r-c09">
+              <seg type="diplomatic-text">師之道也</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f10-l-c01">
+              <seg type="diplomatic-text">醫按要語稱號大略</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f10-l-c02">
+              <seg type="diplomatic-text">非天子不可用之稱</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f10-l-c03">
+              <seg type="diplomatic-text">今上　主上　至尊　龍顏　聖顏　宸慮</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f10-l-c04">
+              <seg type="diplomatic-text">綸言　勅命　詔書　鳳輦　御座　御宴</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f10-l-c05">
+              <seg type="diplomatic-text">供御　崩御　寶算　陛下　玉體　玉座</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f10-l-c06">
+              <seg type="diplomatic-text">東宮　儲君　國母　登遐　聖主</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>夾於玉座、東宮間的右組小注</label>
+              <seg type="diplomatic-text" rend="black">明以降足恭佞媚之風益甚玉体玉坐玉趾／等之辭。等輩之際相稱呼然是唯尺牘中之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>同上中組小注</label>
+              <seg type="diplomatic-text" rend="black">曲詞而至正大之書札無有之若非當稱而／過崇之却似輕曼類朝弄如臣按論斷人之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>同上左組小注</label>
+              <seg type="diplomatic-text" rend="black">重器雖相狎之際可慎而述／之豈輕曼而可乎况高貴乎</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>表末小字稱號</label>
+              <seg type="diplomatic-text" rend="black">皇后　太子</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第二欄「考按」、第三四欄「也耳」及第六欄「弄媒」待核，右版心「四」。 左面：左面為稱號表。小字依正文欄次另存。</ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>考按</quote>
+              <note type="editorial">第二欄「考按」、第三四欄「也耳」及第六欄「弄媒」待核，右版心「四」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>弄媒</quote>
+              <note type="editorial">第二欄「考按」、第三四欄「也耳」及第六欄「弄媒」待核，右版心「四」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="11" facs="#f11" />
+        <div n="11" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f11-r-c01">
+              <seg type="diplomatic-text">殿下</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f11-r-c02">
+              <seg type="diplomatic-text">嚴命　台命　敎命　明敎</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f11-r-c03">
+              <seg type="diplomatic-text">諸大名之命　閣下　臺下　左右　執</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f11-r-c04">
+              <seg type="diplomatic-text">事　館下　府下　明府</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f11-r-c05">
+              <seg type="diplomatic-text">節下　帷內　小君</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f11-r-c06">
+              <seg type="diplomatic-text">世子　嫡子　大嫡子　嗣君</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f11-r-c07">
+              <seg type="diplomatic-text">漢國諸侯之妻曰夫人嗣子曰世子死曰薨</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f11-r-c08">
+              <seg type="diplomatic-text">今本邦諸大名不可稱薨君之妻子称夫人</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f11-r-c09">
+              <seg type="diplomatic-text">稱世子恐非當</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>殿下雙行注</label>
+              <seg type="diplomatic-text" rend="black">本邦之制唯關白職而稱之以漢國之／例則皇太子亦稱之以下諸王亦稱之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>嚴命雙行注</label>
+              <seg type="diplomatic-text" rend="black">非總府恐難稱</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>台命右旁小注</label>
+              <seg type="diplomatic-text" rend="black">三公之命</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>諸大名之命旁注</label>
+              <seg type="diplomatic-text" rend="black">通用之可</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>臺下旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">本貴人／之称</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>左右旁注</label>
+              <seg type="diplomatic-text" rend="black">同上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>執事旁注</label>
+              <seg type="diplomatic-text" rend="black">同</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>館下與府下間雙行注</label>
+              <seg type="diplomatic-text" rend="black">非屋形号之／君恐非當</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>明府旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">以都下／非稱府</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>節下上端雙行注</label>
+              <seg type="diplomatic-text" rend="black">之君恐／非當</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>節下右旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">羽林武家／之介称</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>帷內旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">夫人內／君通称</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>小君下方雙行注</label>
+              <seg type="diplomatic-text" rend="black">同上</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f11-l-c01">
+              <seg type="diplomatic-text">大府主　大國主　○○國大主　大城主</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f11-l-c02">
+              <seg type="diplomatic-text">○○城當主　大領主　明使君</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f11-l-c03">
+              <seg type="diplomatic-text">人　大元老　大元臣</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f11-l-c04">
+              <seg type="diplomatic-text">夫子</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f11-l-c05">
+              <seg type="diplomatic-text">列位</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f11-l-c06">
+              <seg type="diplomatic-text">殂</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f11-l-c07">
+              <seg type="diplomatic-text">逝</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f11-l-c08">
+              <seg type="diplomatic-text">士庶稱</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f11-l-c09">
+              <seg type="diplomatic-text">先生　健士　干城　良士　良主　賢主</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>大領主旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">無城／之君</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>明使君旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">稱國守／有位之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>大元老旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">諸藩之／大臣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>大元臣旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">若處一城有一都／之人宜書○○城</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>夫子上雙行注</label>
+              <seg type="diplomatic-text" rend="black">主或○○領主／○○君所患</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>夫子下雙行注</label>
+              <seg type="diplomatic-text" rend="black">孔孟之徒稱師又孔子／對達伯王之使指達伯</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>列位上方雙行注</label>
+              <seg type="diplomatic-text" rend="black">王稱夫子猶非君之子而／稱君子欽稱權宜可用</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>列位下方雙行注</label>
+              <seg type="diplomatic-text" rend="black">漢國称列位／者大衆有位</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>殂上方雙行注</label>
+              <seg type="diplomatic-text" rend="black">爵之人本邦對無九階之位爵／人称列位恐非當</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>殂下方雙行注</label>
+              <seg type="diplomatic-text" rend="black">漢國稱敵／國王者之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>逝上方雙行注</label>
+              <seg type="diplomatic-text" rend="black">死用／之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>逝下方雙行注</label>
+              <seg type="diplomatic-text" rend="black">本邦貴族之未位爵者／人死多用之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>逝字下另組雙行注</label>
+              <seg type="diplomatic-text" rend="black">非死言卒入／稱之恐非當</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：原件把「執事」跨兩欄排印。細字、詞條依位置標記。右版心「五」。 左面：原件部分大字詞條與前後細字共用直欄。「處一城」「達伯」「未位爵者」等讀法待核，左版心「六」。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">原件部分大字詞條與前後細字共用直欄。「處一城」「達伯」「未位爵者」等讀法待核，左版心「六」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="12" facs="#f12" />
+        <div n="12" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f12-r-c01">
+              <seg type="diplomatic-text">善主　武弁　足下　梧下　詞宗　詞伯</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f12-r-c02">
+              <seg type="diplomatic-text">賢大人　家公　母公</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f12-r-c03">
+              <seg type="diplomatic-text">孺人</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f12-r-c04">
+              <seg type="diplomatic-text">令岳　令閨　令嫡　令</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f12-r-c05">
+              <seg type="diplomatic-text">愛　弄璋　鳳雛　人</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f12-r-c06">
+              <seg type="diplomatic-text">釋氏稱</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f12-r-c07">
+              <seg type="diplomatic-text">大門主　大僧正　大和尚　大上人　大</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f12-r-c08">
+              <seg type="diplomatic-text">禪師　大長老　大德　大知識</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f12-r-c09">
+              <seg type="diplomatic-text">大顯者　大尊者　大法師　道人</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f12-r-c10">
+              <seg type="diplomatic-text">真人</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>賢大人上雙行注</label>
+              <seg type="diplomatic-text" rend="black">称詩歌／人</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>賢大人下雙行注</label>
+              <seg type="diplomatic-text" rend="black">主人／父</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>家公旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">同上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>母公旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">主人／母</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>令岳上雙行注</label>
+              <seg type="diplomatic-text" rend="black">非爲大夫人之／母稱之恐非當</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>令岳旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">稱妻／父</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>令閨旁小注</label>
+              <seg type="diplomatic-text" rend="black">妻</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>愛旁小注</label>
+              <seg type="diplomatic-text" rend="black">娘</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>鳳雛下雙行注</label>
+              <seg type="diplomatic-text" rend="black">茲称／孩兒</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>大長老下雙行注</label>
+              <seg type="diplomatic-text" rend="black">茲祝下或／稱侍者</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>大知識下雙行注</label>
+              <seg type="diplomatic-text" rend="black">茲／稱</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>大顯者上雙行注</label>
+              <seg type="diplomatic-text" rend="black">臺／下</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>大顯者下雙行注</label>
+              <seg type="diplomatic-text" rend="black">修驗／道類</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>大尊者下雙行注</label>
+              <seg type="diplomatic-text" rend="black">釋家／弟子</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f12-l-c01">
+              <seg type="diplomatic-text">上書體醫按</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f12-l-c02">
+              <seg type="diplomatic-text">恭奉診</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f12-l-c03">
+              <seg type="diplomatic-text">○○亞相閣下不豫　愚按一條</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f12-l-c04">
+              <seg type="diplomatic-text">○○府醫貟○○○○頓首再拜</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f12-l-c05">
+              <seg type="diplomatic-text">以左右之過舉謹奉診</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f12-l-c06">
+              <seg type="diplomatic-text">閣下之不例　其脉浮大而數咳嗽時々</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f12-l-c07">
+              <seg type="diplomatic-text">惡寒晡熱盜汗是則爲虛勞之候然愚熟按</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>上書體醫按下雙行注</label>
+              <seg type="diplomatic-text" rend="black">書表面紙上者略恭字可／又以俗語書○○樣御不</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>上書體醫按側雙行注</label>
+              <seg type="diplomatic-text" rend="black">豫奉診愚按一條／又可</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>亞相閣下旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">或黃門閣下或○○國大主或○○城／當主○○公等</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>府醫貟欄小字</label>
+              <seg type="diplomatic-text" rend="black">姓　名</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>不例旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">或尊／患</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：「語」「詞」「孺」等稱謂依可見字形，「令」獨字位次與前後銜接待核。右版心「六」。 左面：正文末欄小方口點沿「然愚熟按」右側印出。小字「或尊患」、「貟」待核。右面版心「六」，左面「七」。</ab>
+            <ab type="transcription-issue" n="right:1">
+              <quote>詞</quote>
+              <note type="editorial">「語」「詞」「孺」等稱謂依可見字形，「令」獨字位次與前後銜接待核。右版心「六」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>孺</quote>
+              <note type="editorial">「語」「詞」「孺」等稱謂依可見字形，「令」獨字位次與前後銜接待核。右版心「六」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>令</quote>
+              <note type="editorial">「語」「詞」「孺」等稱謂依可見字形，「令」獨字位次與前後銜接待核。右版心「六」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>然愚熟按</quote>
+              <note type="editorial">正文末欄小方口點沿「然愚熟按」右側印出。小字「或尊患」、「貟」待核。右面版心「六」，左面「七」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>貟</quote>
+              <note type="editorial">正文末欄小方口點沿「然愚熟按」右側印出。小字「或尊患」、「貟」待核。右面版心「六」，左面「七」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="13" facs="#f13" />
+        <div n="13" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f13-r-c01">
+              <seg type="diplomatic-text">脉雖數未至六至晡熱盜汗或有休止咳嗽</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f13-r-c02">
+              <seg type="diplomatic-text">涎沫未太多而　閣下尊賦不至弱　春秋</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f13-r-c03">
+              <seg type="diplomatic-text">未滿立志肌肉頗有潤澤語聲寥々宮商尚</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f13-r-c04">
+              <seg type="diplomatic-text">存參之伍彼可識未致蒸熱焦骨鬱蒸生頭</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f13-r-c05">
+              <seg type="diplomatic-text">虫當此時除去病根奉養得宜則庶幾得萬</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f13-r-c06">
+              <seg type="diplomatic-text">全蓋　閣下之病得之　思慮太過偶感疫</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f13-r-c07">
+              <seg type="diplomatic-text">氣凡思慮太過則氣血爲之凝滯氣血凝滯</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f13-r-c08">
+              <seg type="diplomatic-text">則中氣不宣布一旦所客之邪隱匿無由于</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f13-r-c09">
+              <seg type="diplomatic-text">出漸遊溢于諸經是以當時隨經之藥進之</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f13-l-c01">
+              <seg type="diplomatic-text">則隨而愈而又隨而數遂沈頑固滯見咳嗽</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f13-l-c02">
+              <seg type="diplomatic-text">盜汗等之症聚而言之以其根蒂未脫也根</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f13-l-c03">
+              <seg type="diplomatic-text">蒂不脫則晡熱盜汗不止今以愚見觀之莫</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f13-l-c04">
+              <seg type="diplomatic-text">如驅巢穴之邪驅巢穴無如溫疫論達原飲</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f13-l-c05">
+              <seg type="diplomatic-text">而邪之淹滯經時月真元之氣不得不衰須</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f13-l-c06">
+              <seg type="diplomatic-text">依本方加人參三分鼓舞元氣使藥力直達</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f13-l-c07">
+              <seg type="diplomatic-text">巢穴邪速離根蒂猶察潰血之狀隨表裏之</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f13-l-c08">
+              <seg type="diplomatic-text">現症臨機應變以治之則必收其功矣呂氏</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f13-l-c09">
+              <seg type="diplomatic-text">春秋曰譬如良醫疾萬變藥亦萬變</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>末欄署名小字</label>
+              <seg type="diplomatic-text" rend="black">愚　不肖</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：疑讀「伍」「骨鬱蒸生頭虫」「隱匿」。首兩欄無方口點，中段以後原刻方口點沿字側，屬作者所示之詳記格式。 左面：第一欄「數遂」、第七欄「潰血」待核，版心「八」。前八欄字側大多有方口點；第九欄原刻圈點少，末另見兩個圓標。</ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>伍</quote>
+              <note type="editorial">疑讀「伍」「骨鬱蒸生頭虫」「隱匿」。首兩欄無方口點，中段以後原刻方口點沿字側，屬作者所示之詳記格式。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>隱匿</quote>
+              <note type="editorial">疑讀「伍」「骨鬱蒸生頭虫」「隱匿」。首兩欄無方口點，中段以後原刻方口點沿字側，屬作者所示之詳記格式。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>數遂</quote>
+              <note type="editorial">第一欄「數遂」、第七欄「潰血」待核，版心「八」。前八欄字側大多有方口點；第九欄原刻圈點少，末另見兩個圓標。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>潰血</quote>
+              <note type="editorial">第一欄「數遂」、第七欄「潰血」待核，版心「八」。前八欄字側大多有方口點；第九欄原刻圈點少，末另見兩個圓標。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="14" facs="#f14" />
+        <div n="14" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f14-r-c01">
+              <seg type="diplomatic-text">非自誇殆亦理之必然也茲敢陳管見如其</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f14-r-c02">
+              <seg type="diplomatic-text">取捨則一竢執也待諸醫之高按</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f14-r-c03">
+              <seg type="diplomatic-text">奉診</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f14-r-c04">
+              <seg type="diplomatic-text">○○○　閣下之不豫再呈</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f14-r-c05">
+              <seg type="diplomatic-text">愚案　○○姓名　頓首誠恐</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f14-r-c06">
+              <seg type="diplomatic-text">前日奉　敎命謹上藥劑幸諸症率退但舌</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f14-r-c07">
+              <seg type="diplomatic-text">上微々見黑胎是微邪殘傳入胃之候也因</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f14-r-c08">
+              <seg type="diplomatic-text">前方加大黃三分進之胎黑悉去而晡熱盜</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f14-r-c09">
+              <seg type="diplomatic-text">汗再發雖然非前日並烈之比則是根蔕已</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>左側大字欄旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">亞相大國主府主／黃門國大主城主</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>再呈旁小注</label>
+              <seg type="diplomatic-text" rend="black">或三呈</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>右記「誠恐」之右旁小字</label>
+              <seg type="diplomatic-text" rend="black">百拜</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f14-l-c01">
+              <seg type="diplomatic-text">脫而餘焰僅存也宜以外臺方柴胡鼈甲湯</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f14-l-c02">
+              <seg type="diplomatic-text">解鬱熱理中氣則餘焰不務清而自清矣尚</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f14-l-c03">
+              <seg type="diplomatic-text">憑侍醫諸哲之明判</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f14-l-c04">
+              <seg type="diplomatic-text">右件醫按自記之體</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f14-l-c05">
+              <seg type="diplomatic-text">文化甲子四月○○侯年二十七患虛勞召</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f14-l-c06">
+              <seg type="diplomatic-text">余診之其脉浮大而數咳嗽盜汗晡熱微惡</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f14-l-c07">
+              <seg type="diplomatic-text">寒日西則面色頰赤虛勞之候大具余謂脉</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f14-l-c08">
+              <seg type="diplomatic-text">雖數未及六至盜汗晡熱或有休止而其受</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f14-l-c09">
+              <seg type="diplomatic-text">稟又不至弱春秋尚富語聲寥々宮調尚存</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>右件醫按下小字</label>
+              <seg type="diplomatic-text" rend="black">書記詳略之処以○口別之可合考</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第二欄「一竢執也」、第八欄「胎黑悉去」、第九欄「並烈」待核。 左面：小字「処」待核；「○」「口」是兩種原來圈點，正文此例早段開始多見方口點。左版心「九」。</ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>一竢執也</quote>
+              <note type="editorial">第二欄「一竢執也」、第八欄「胎黑悉去」、第九欄「並烈」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>胎黑悉去</quote>
+              <note type="editorial">第二欄「一竢執也」、第八欄「胎黑悉去」、第九欄「並烈」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:9">
+              <quote>並烈</quote>
+              <note type="editorial">第二欄「一竢執也」、第八欄「胎黑悉去」、第九欄「並烈」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>○</quote>
+              <note type="editorial">小字「処」待核；「○」「口」是兩種原來圈點，正文此例早段開始多見方口點。左版心「九」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="15" facs="#f15" />
+        <div n="15" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f15-r-c01">
+              <seg type="diplomatic-text">蓋侯之病得之思慮太過偶感疫氣以其思</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f15-r-c02">
+              <seg type="diplomatic-text">慮太過中氣損傷不能與邪相爭是以在革</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f15-r-c03">
+              <seg type="diplomatic-text">當時不甚覺只用尋常益氣之劑邪熱壅宛</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f15-r-c04">
+              <seg type="diplomatic-text">遊溢于諸經侍醫不究淵源隨現症進藥淹</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f15-r-c05">
+              <seg type="diplomatic-text">滯時月遂見這虛勞之狀也余乃達原飲中</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f15-r-c06">
+              <seg type="diplomatic-text">加人參三分進之其加參者以邪氣淹滯已</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f15-r-c07">
+              <seg type="diplomatic-text">久真元衰故也服之五日晡熱盜汗漸退舌</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f15-r-c08">
+              <seg type="diplomatic-text">上微生黑胎因前方加大黃二分進之二日</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f15-r-c09">
+              <seg type="diplomatic-text">舌胎盡去反見晡熱盜汗之症余於是以爲</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f15-l-c01">
+              <seg type="diplomatic-text">是巢穴之邪盡而餘焰僅熏蒸耳仍進外臺</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f15-l-c02">
+              <seg type="diplomatic-text">柴胡鼈甲湯四十餘日而全愈</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f15-l-c03">
+              <seg type="diplomatic-text">專示左右侍臣則不書國君之名稱表</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f15-l-c04">
+              <seg type="diplomatic-text">據古方家者流醫按体</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f15-l-c05">
+              <seg type="diplomatic-text">謹呈　愚按　一條</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f15-l-c06">
+              <seg type="diplomatic-text">恭奉診</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f15-l-c07">
+              <seg type="diplomatic-text">大府閣下尊體不和之狀　其脉浮虛而數</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f15-l-c08">
+              <seg type="diplomatic-text">重取之頗實胸脇逆滿腹痛嘔吐痛從臍傍</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>表面字例右細欄</label>
+              <seg type="diplomatic-text" rend="black">面宜書○國大主或府大主○上件俗</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>表面字例左細欄</label>
+              <seg type="diplomatic-text" rend="black">或亞相公或黃門公不豫書又可</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第二欄「在革」、第三欄「壅宛」、第五欄「這」待核。句讀圈點及方口點並見；右版心「九」。 左面：第三欄「表」接小字；第八欄「胸脇」待核，左版心「十」。</ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>在革</quote>
+              <note type="editorial">第二欄「在革」、第三欄「壅宛」、第五欄「這」待核。句讀圈點及方口點並見；右版心「九」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>壅宛</quote>
+              <note type="editorial">第二欄「在革」、第三欄「壅宛」、第五欄「這」待核。句讀圈點及方口點並見；右版心「九」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>這</quote>
+              <note type="editorial">第二欄「在革」、第三欄「壅宛」、第五欄「這」待核。句讀圈點及方口點並見；右版心「九」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>表</quote>
+              <note type="editorial">第三欄「表」接小字；第八欄「胸脇」待核，左版心「十」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>胸脇</quote>
+              <note type="editorial">第三欄「表」接小字；第八欄「胸脇」待核，左版心「十」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>十</quote>
+              <note type="editorial">第三欄「表」接小字；第八欄「胸脇」待核，左版心「十」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="16" facs="#f16" />
+        <div n="16" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f16-r-c01">
+              <seg type="diplomatic-text">引小腹按之則痛益甚身微熱又時微惡寒</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f16-r-c02">
+              <seg type="diplomatic-text">口中常乾燥欲食冷食僅食冷則嘔吐腹痛</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f16-r-c03">
+              <seg type="diplomatic-text">益甚愚請言之胸脇逆滿欲食冷食食則嘔</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f16-r-c04">
+              <seg type="diplomatic-text">吐腹痛益甚是爲附子粳米湯之症小腹按</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f16-r-c05">
+              <seg type="diplomatic-text">之痛劇微惡寒是爲大黃牡丹湯之症前日</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f16-r-c06">
+              <seg type="diplomatic-text">進求附之劑嘔吐腹痛雖小安小腹急痛稍</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f16-r-c07">
+              <seg type="diplomatic-text">劇乃進大黃甘遂之劑忽發嘔吐之患是附</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f16-r-c08">
+              <seg type="diplomatic-text">子粳米湯之證在上而大黃牡丹湯之症在</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f16-r-c09">
+              <seg type="diplomatic-text">下也殆似非僕疎工之所能及唯</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f16-l-c01">
+              <seg type="diplomatic-text">大府春秋未滿強仕真元之氣未加衰弛然</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f16-l-c02">
+              <seg type="diplomatic-text">則當先除去大黃牡丹湯之症而後治附子</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f16-l-c03">
+              <seg type="diplomatic-text">粳米湯之症然徒進大黃牡丹湯幾似無應</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f16-l-c04">
+              <seg type="diplomatic-text">變之策須依本方武火煎之內薑汁一勺熱</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f16-l-c05">
+              <seg type="diplomatic-text">進之則庶幾少嘔吐之患乎幸而無所阻則</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f16-l-c06">
+              <seg type="diplomatic-text">連進三五日而進附子粳米湯或外臺茯苓</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f16-l-c07">
+              <seg type="diplomatic-text">飲之類又隨見證緩々治之可乎哉扁鵲有</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f16-l-c08">
+              <seg type="diplomatic-text">言視藥之應識病之源僕今竊傚之如其洞視</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f16-l-c09">
+              <seg type="diplomatic-text">非僕不肖所企及尚賢大夫　諸國手裁</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>賢大夫旁雙行注</label>
+              <seg type="diplomatic-text" rend="black">賢執／事</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第六欄「求附」及末欄「疎」待核，右版心「十」。 左面：第一欄「衰弛」、第八欄「傚」和末欄「裁」待核。左版心「十一」。</ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>求附</quote>
+              <note type="editorial">第六欄「求附」及末欄「疎」待核，右版心「十」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:9">
+              <quote>疎</quote>
+              <note type="editorial">第六欄「求附」及末欄「疎」待核，右版心「十」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>衰弛</quote>
+              <note type="editorial">第一欄「衰弛」、第八欄「傚」和末欄「裁」待核。左版心「十一」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>傚</quote>
+              <note type="editorial">第一欄「衰弛」、第八欄「傚」和末欄「裁」待核。左版心「十一」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>裁</quote>
+              <note type="editorial">第一欄「衰弛」、第八欄「傚」和末欄「裁」待核。左版心「十一」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="17" facs="#f17" />
+        <div n="17" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f17-r-c01">
+              <seg type="diplomatic-text">判</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f17-r-c02">
+              <seg type="diplomatic-text">再診三診如前例</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f17-r-c03">
+              <seg type="diplomatic-text">謹奉診</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f17-r-c04">
+              <seg type="diplomatic-text">○○大城主○○公貴恙　愚案一條</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f17-r-c05">
+              <seg type="diplomatic-text">○○○○　頓首</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f17-r-c06">
+              <seg type="diplomatic-text">伏診</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f17-r-c07">
+              <seg type="diplomatic-text">明公別無所苦唯身躰沈重懶於動作兩手</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f17-r-c08">
+              <seg type="diplomatic-text">似痺非痺似疼非疼常惕々如人之將捕状</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>「判」字下及側的小字</label>
+              <seg type="diplomatic-text" rend="black">凡示左右侍臣者自稱僕可表,示左右侍／臣而實直上之者自稱愚可書愚或名與／名直上之書自己之名之下書誠恐誠惶亦／可不書又可不至不遜專示左右者固不用</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>姓名欄旁小字</label>
+              <seg type="diplomatic-text" rend="black">姓　名</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f17-l-c01">
+              <seg type="diplomatic-text">或卒然聞物聲則雖微大驚怖若其有漸則</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f17-l-c02">
+              <seg type="diplomatic-text">雖大風迅雷不異平生奉餕如常大便難而</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f17-l-c03">
+              <seg type="diplomatic-text">不輙小便短而少其脉浮細而微弦　愚按</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f17-l-c04">
+              <seg type="diplomatic-text">臺下之病得之思慮太過傷心脾經曰心藏</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f17-l-c05">
+              <seg type="diplomatic-text">神脾藏意又曰心君主之官謀慮出焉今君</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f17-l-c06">
+              <seg type="diplomatic-text">主受傷而臣僕有不亂者乎是以尤而無制</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f17-l-c07">
+              <seg type="diplomatic-text">侮而不能禦也夫身體重懶于動作似痺非</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f17-l-c08">
+              <seg type="diplomatic-text">痺似疼非疼者脾土虛憊不能制腎水之候</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f17-l-c09">
+              <seg type="diplomatic-text">也今以愚處方則濟世方歸脾湯爲本方兼</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右首判字承前幅。第一組小字多欄分段待核。末欄「惕」「捕」待核，右版心「十一」。 左面：第二欄「奉餕」、第三欄「輙」、第六欄「尤」待核，左版心「十二」。</ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>惕</quote>
+              <note type="editorial">右首判字承前幅。第一組小字多欄分段待核。末欄「惕」「捕」待核，右版心「十一」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>捕</quote>
+              <note type="editorial">右首判字承前幅。第一組小字多欄分段待核。末欄「惕」「捕」待核，右版心「十一」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>奉餕</quote>
+              <note type="editorial">第二欄「奉餕」、第三欄「輙」、第六欄「尤」待核，左版心「十二」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>輙</quote>
+              <note type="editorial">第二欄「奉餕」、第三欄「輙」、第六欄「尤」待核，左版心「十二」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:6">
+              <quote>尤</quote>
+              <note type="editorial">第二欄「奉餕」、第三欄「輙」、第六欄「尤」待核，左版心「十二」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="18" facs="#f18" />
+        <div n="18" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f18-r-c01">
+              <seg type="diplomatic-text">用局方朱砂安神丸健脾補心血鎮君相二</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f18-r-c02">
+              <seg type="diplomatic-text">火之亢又傍修導引吐納之法且用藥艾灸</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f18-r-c03">
+              <seg type="diplomatic-text">之三十許日艾炷下必發微痒爲佳行之百</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f18-r-c04">
+              <seg type="diplomatic-text">日以外可以得全効但如其應否非所敢豫</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f18-r-c05">
+              <seg type="diplomatic-text">決僅述管見以待醫諸賢之裁斷是矣</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f18-r-c06">
+              <seg type="diplomatic-text">灸法</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f18-r-c07">
+              <seg type="diplomatic-text">先以藥末　大豆大許塩湯拌摶</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f18-r-c08">
+              <seg type="diplomatic-text">作挺置關元穴艾炷大如麥粒灸之以覺</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f18-r-c09">
+              <seg type="diplomatic-text">熱爲度</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>藥末字旁双行注</label>
+              <seg type="diplomatic-text" rend="black">以秘禁方／不明著此</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f18-l-c01">
+              <seg type="diplomatic-text">余嘗治此三人故爰記之但非諸侯耳</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f18-l-c02">
+              <seg type="diplomatic-text">爲所仕君述醫按則固不可書其君名稱</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f18-l-c03">
+              <seg type="diplomatic-text">恭奉診</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f18-l-c04">
+              <seg type="diplomatic-text">君上之不豫　愚按　醫臣○○</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f18-l-c05">
+              <seg type="diplomatic-text">駕下辱　國恩于醫貟敢述鄙見供其</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f18-l-c06">
+              <seg type="diplomatic-text">職　謹奉診　尊患其脉浮－－</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f18-l-c07">
+              <seg type="diplomatic-text">小君夫人嗣君嫡子公子庶子公姬○○君</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f18-l-c08">
+              <seg type="diplomatic-text">○○君</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f18-l-c09">
+              <seg type="diplomatic-text">爲同藩大臣述醫按</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>醫臣欄旁雙行字例</label>
+              <seg type="diplomatic-text" rend="black">姓／名</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>醫臣欄底雙行</label>
+              <seg type="diplomatic-text" rend="black">誠恐誠惶／頓首謹上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>駕下欄首小字</label>
+              <seg type="diplomatic-text" rend="black">臣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>職旁雙行小注</label>
+              <seg type="diplomatic-text" rend="black">或竢／其罪</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>○○旁小字</label>
+              <seg type="diplomatic-text" rend="black">名</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>君旁小字</label>
+              <seg type="diplomatic-text" rend="black">妾</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右版心「十二」，細字秘禁方為原書自述，未列該方。第三欄「艾炷」及第八欄「挺」待核。 左面：左版心「十三」，直接呈醫案的欄間小注保存。第五欄「駕」「于」待核。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>艾炷</quote>
+              <note type="editorial">右版心「十二」，細字秘禁方為原書自述，未列該方。第三欄「艾炷」及第八欄「挺」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>挺</quote>
+              <note type="editorial">右版心「十二」，細字秘禁方為原書自述，未列該方。第三欄「艾炷」及第八欄「挺」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>駕</quote>
+              <note type="editorial">左版心「十三」，直接呈醫案的欄間小注保存。第五欄「駕」「于」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>于</quote>
+              <note type="editorial">左版心「十三」，直接呈醫案的欄間小注保存。第五欄「駕」「于」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="19" facs="#f19" />
+        <div n="19" type="scan" subtype="appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f19-r-c01">
+              <seg type="diplomatic-text">謹奉診</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f19-r-c02">
+              <seg type="diplomatic-text">○○公之貴恙　愚按</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f19-r-c03">
+              <seg type="diplomatic-text">本藩醫貟○○○○拜謹述</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f19-r-c04">
+              <seg type="diplomatic-text">伏奉診</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f19-r-c05">
+              <seg type="diplomatic-text">賢公之所患其脉－－</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f19-r-c06">
+              <seg type="diplomatic-text">處士之醫診其國君之病與爲所仕君者</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f19-r-c07">
+              <seg type="diplomatic-text">相同唯己名可書草莽醫民　－－－</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f19-r-c08">
+              <seg type="diplomatic-text">市街或村落之醫爲病者述医按市街邑</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f19-r-c09">
+              <seg type="diplomatic-text">落異則書己邑落姓名同邑則書同邑</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>醫貟姓名欄側小字</label>
+              <seg type="diplomatic-text" rend="black">姓　名</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>草莽醫民欄側小字</label>
+              <seg type="diplomatic-text" rend="black">姓名</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f19-l-c01">
+              <seg type="diplomatic-text">附錄</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f19-l-c02">
+              <seg type="diplomatic-text">醫家者流古來別有一家言而徃前淇園</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f19-l-c03">
+              <seg type="diplomatic-text">先生著醫按類語以悉之今爰家大人醫</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f19-l-c04">
+              <seg type="diplomatic-text">按辨成矣余摘類語簡要者一二俚言繹</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f19-l-c05">
+              <seg type="diplomatic-text">之供淺學童輩之採拾</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f19-l-c06">
+              <seg type="diplomatic-text">病症</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f19-l-c07">
+              <seg type="diplomatic-text">以之部　陰證　噫逆　痿躄</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f19-l-c08">
+              <seg type="diplomatic-text">噎食　遺尿　遺溺　遺精</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f19-l-c09">
+              <seg type="diplomatic-text">咽喉不利　痿弱　陰陽兩感</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>陰證旁雙行日文</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウハベエ子ツノ／ミヘヌ傷寒</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>噫逆旁雙行日文</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒヤク／リノコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>痿躄旁雙行日文</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ハナ／ヘルヤセヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>噎食旁雙行日文</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シヨクジニ／ムセルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>遺尿旁雙行日文</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ノ出ルヲ／オボエヌコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>遺溺旁雙行小字</label>
+              <seg type="diplomatic-text" rend="black">同／上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>遺精旁雙行日文</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">モウラウ／スルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>咽喉不利旁雙行日文</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ノドノゲハイ／アシキコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>痿弱旁雙行日文</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ニテモ何／ニテモナヘルコト</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：左側主欄字形「醫／医」隨原刻，右版心「十三」。 左面：附錄混有小字片假名釋義，按原圖分段保存。左版心「付錄」「十四」。末兩欄個別片假名及「躄」「噎」待核。</ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>躄</quote>
+              <note type="editorial">附錄混有小字片假名釋義，按原圖分段保存。左版心「付錄」「十四」。末兩欄個別片假名及「躄」「噎」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>噎</quote>
+              <note type="editorial">附錄混有小字片假名釋義，按原圖分段保存。左版心「付錄」「十四」。末兩欄個別片假名及「躄」「噎」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="20" facs="#f20" />
+        <div n="20" type="scan" subtype="appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f20-r-c01">
+              <seg type="diplomatic-text">胃中不和　胃氣　呂之部　勞</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f20-r-c02">
+              <seg type="diplomatic-text">倦　勞動　勞氣　勞熱</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f20-r-c03">
+              <seg type="diplomatic-text">露睛　波之部　煩躁　煩渴</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f20-r-c04">
+              <seg type="diplomatic-text">煩悶　發黃　發斑　半身</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f20-r-c05">
+              <seg type="diplomatic-text">不遂　白屑　白癜　梅核</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f20-r-c06">
+              <seg type="diplomatic-text">反覆轉倒　冒家</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f20-r-c07">
+              <seg type="diplomatic-text">人　胞中　仁之部　日晡所潮熱</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f20-r-c08">
+              <seg type="diplomatic-text">乳病　尿血　肉瞤　乳中</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f20-r-c09">
+              <seg type="diplomatic-text">保之部　暴病　翻胃　崩中</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>胃中不和旁釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱブクロノ中／ガメグラヌ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>胃氣旁釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">餗ヲヤシナフ／食物ノ氣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>倦下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">モノニツカレ／タイクツスル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>勞動下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダニアタル／ホトウゴクコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>勞氣下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ロウノ／ケザシ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>勞熱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ロウノ／子ツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>露睛下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子テモ目ヲ／ヲサヘギラヌ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>煩躁下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒドウシユワ／ナカルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>煩渴下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ワルクク／カハク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>煩悶下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ワルクク／モダヘル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>發黃下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダニキバ／ミカテバコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>發斑下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダウチヘ發／イロノヤフナモノカ出ル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>半身不遂下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カタ身／叶ヌ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>白屑下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アタマノ／フケ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>白癜下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シロナ／マヅ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>梅核下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">咽ノウチニ梅ノ／タ子ガヒツヽヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上梅核之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">テアルヤウ／ニヲホヘル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>反覆轉倒下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">フクカヘリウツブシニ／ナリシテジュウナガル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>冒家下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ソラカブキウツ／トリスルクセノ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>冒家釋尾</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アル／人</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>胞中下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ブクロ／ノウチ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>日晡所潮熱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒクレガタ／カライツデ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上日晡所潮熱釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">デモ出／ル子ツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>乳病下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">チヽ○／○ヤマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>尿血下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ニ血／ガデル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>肉瞤下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハダガヒク／〳〵ウゴク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>乳中下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウブヤ／ノウチ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>暴病下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ニワカ／ヤマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>翻胃下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">胃反トモ云食／物ヲモトス病</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>崩中下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">月水ノ大／ヲクスルコト</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f20-l-c01">
+              <seg type="diplomatic-text">崩漏　飽悶　膨脹　邊之部　便結</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f20-l-c02">
+              <seg type="diplomatic-text">便閉　表裏　痞囊</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f20-l-c03">
+              <seg type="diplomatic-text">土之部　疼痛　盜汗　溏</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f20-l-c04">
+              <seg type="diplomatic-text">泄　吐酸　吞酸　痘勢雄</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f20-l-c05">
+              <seg type="diplomatic-text">壯　痘疔　吐逆　知之部　直視</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f20-l-c06">
+              <seg type="diplomatic-text">蓐勞　衄血　中暍　中熱　中濕</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f20-l-c07">
+              <seg type="diplomatic-text">畜熱　畜血　沈着　腎</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f20-l-c08">
+              <seg type="diplomatic-text">間動　利之部　裏急後重　理</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f20-l-c09">
+              <seg type="diplomatic-text">線　臨產　臨盆　留之部　類中</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>崩漏下釋</label>
+              <seg type="diplomatic-text" rend="black">同／上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>飽悶下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">食ヲクヒスギャウ／ニ腹ノハルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>膨脹下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラハリ／イキレル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上便結之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">大便ノケツシルコト○小／便ナレバ小便結ト云</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>便閉下釋</label>
+              <seg type="diplomatic-text" rend="black">同／上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>表裏下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウハベ／ソコ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>痞囊下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">コノ病名本事方ニ／始テイヅ反胃ニ似テ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上痞囊之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">胃ノ中ニ別ニフクロデキテ食／物ヲ腸ヘクダラズモドス病</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>疼痛下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シタルク／イタム</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>盜汗下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ア／セ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上溏泄之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">大便ユルミ／下ルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>吐酸下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">スキ水／ヲハク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>吞酸下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">スキ水ガデソウデ出ヌ／ム子ノヤケルトイフ病</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上痘勢雄壯之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ホウソウノ勢ノ／ヨスギルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>痘疔下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハウソウノ／クロキツブ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>吐逆下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハキノ／ツヨキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上直視之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">目ヲミ／ツメル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>蓐勞下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">サンロ／ウノコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>衄血下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハナ／ヂ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>中暍下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">チウ／シヨ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>中熱下釋</label>
+              <seg type="diplomatic-text" rend="black">同／上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>中濕残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シツ／キニ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上中濕之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アタ／ル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>畜熱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチニ下地／アル子ツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>畜血下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">タマツテアル／オケツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>沈着下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチラニヒツヒテ／アルモノヲイフ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上腎間動之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲソノシタ／ノドキ〳〵</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>裏急後重下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">大便イケミダチ／コミヘハルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上理線之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">イトヲヒ子ルヤウ／ナ手モゾリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>臨產下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">サンノ出／カヽリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>類中残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">チ／ウ</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：病名和訓以版面分欄編記，部分假名字形及末葉續釋待核。右版心「付錄」「十四」。 左面：左版心「十五」。罕見病名、細字旁釋、假名重複符號待覆核；部首依原框讀字。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote />
+              <note type="editorial">病名和訓以版面分欄編記，部分假名字形及末葉續釋待核。右版心「付錄」「十四」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">左版心「十五」。罕見病名、細字旁釋、假名重複符號待覆核；部首依原框讀字。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="21" facs="#f21" />
+        <div n="21" type="scan" subtype="appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f21-r-c01">
+              <seg type="diplomatic-text">類疫　流注　羸瘦　羸人</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f21-r-c02">
+              <seg type="diplomatic-text">遠之部　嘔逆　嘔吐　嘔氣　惡熱</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f21-r-c03">
+              <seg type="diplomatic-text">瘀熱　瘀血　懊憹　加之部</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f21-r-c04">
+              <seg type="diplomatic-text">感冒　渇　乾燥　咳嗽</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f21-r-c05">
+              <seg type="diplomatic-text">咳唾稠粘　疥瘡　咯血　咳血</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f21-r-c06">
+              <seg type="diplomatic-text">額上出汗　乾血　寒厥　疳</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f21-r-c07">
+              <seg type="diplomatic-text">勞　疳瘡　解㑊　與之部　腰痛</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f21-r-c08">
+              <seg type="diplomatic-text">壅塞　壅閉　壅滯　太之部　短氣</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f21-r-c09">
+              <seg type="diplomatic-text">濁唾　濁液　禮之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上類中之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ブウノ／ルイ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>類疫下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱキノ／ルイ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>流注下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">タン〴〵アシ／ニナツテクル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>羸瘦下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤセノ／ツヨキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>羸人下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヨハキ／人</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>嘔逆下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱツキ／ツヨキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>嘔吐下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱツキ／ハク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>嘔氣下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱヅク／キミ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>惡熱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ワルクキ／子ツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>瘀熱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">トヾコヲツテ／アル子ツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>瘀血下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">トヾコヲツ／アルチ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>懊憹下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ムナウチ言ニイヘヌ／アシクルシムコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>感冒下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カルキ／風ノコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>渇下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ドヲカハキ／湯茶ヲノム</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>乾燥下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">口中ニテモ肌ニテモ／ウルホヒナクカハラグ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>咳嗽下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">セキス／ハブキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>咳唾稠粘下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">セキデルツバキ／子バルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>疥瘡下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒゼン／ガサ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>咯血下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">チヲ一クチ／ヅヽハク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>咳血下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">セキ／ニチ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上咳血釋尾</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">一ジ／ル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>額上出汗下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒタヒバカリ／デルアセ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>乾血下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カハキツイ／タフルチ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>寒厥下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチガヒヘテ／手足カヒヘル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上疳勞之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">小兒ノセンカラ／デルロウガイ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>疳瘡下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カンノ／クサ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>解㑊下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アツサニヤム／ヤマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腰痛の釋頭</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">コ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上腰痛之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ノイ／タミ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>壅塞下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲサハリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>壅閉旁釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲサハリ／トドヲル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>壅滯下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲサハリ／トドコヲル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上短氣之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">イキヅカヒノ／セハシキコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>濁唾下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子バル／ツバキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>濁液下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">内ヲウルホスウルホヒ／ノクサツタモノ</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f21-l-c01">
+              <seg type="diplomatic-text">部　攣急　冷汗　曾之部　卒病　瘡口</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f21-l-c02">
+              <seg type="diplomatic-text">賊風　卒倒　津之部　頭眩　頭</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f21-l-c03">
+              <seg type="diplomatic-text">項強痛　頭汗　爲傳</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f21-l-c04">
+              <seg type="diplomatic-text">爲不傳　称之部　熱煩　熱渇</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f21-l-c05">
+              <seg type="diplomatic-text">熱厥　熱在皮膚　熱在骨髓</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f21-l-c06">
+              <seg type="diplomatic-text">奈之部　內傷　難治之證　內毒</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f21-l-c07">
+              <seg type="diplomatic-text">膿血　膿汁　牟之部　夢寐不寧　夢</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f21-l-c08">
+              <seg type="diplomatic-text">遺　宇之部　鬱症　鬱冒　乃之部</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f21-l-c09">
+              <seg type="diplomatic-text">膿潰　久之部　苦滿　快通　快利</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>攣急下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒキツリ／ヒツハル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>冷汗下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ツメタ／キアセ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>卒病下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ニハカ／ヤマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>瘡口下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シユモ／ツノ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上瘡口之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ク／チ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>賊風下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">戸障子ノアヒ／ヨリクルカゼ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>卒倒下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ニハカニ／タヲルヽ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>頭眩下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アタマブラツキ／目マヒスル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>項強痛下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アタマクビノ大スヂ／コハバリイタム</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>頭汗下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アタマバカリ／デルアセ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>爲傳下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤマヒガヨクノケイ／ヘウツルトス</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>爲不傳下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツカヤドカヘ／セヌトス</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>熱煩下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツニテジュツ／カルクルシム</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>熱渴残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツチ／ノドヲ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上熱渴之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">テハ／ス</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>熱厥下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツカコモリテ／手足カヒヘル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>熱在皮膚下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツガウハベニ／アル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>熱在骨髓残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツカ／ヲクヘ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上熱在骨髓之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハイツ／メ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>內傷下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチラカノ／ヲコルヤマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>難治之證下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ナホリニクヒ／ヤウタイ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>內毒残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチラ／モヤツヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上內毒之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">テイル／ドク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>膿血下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウミ／チ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>膿汁下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウミ／シル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>夢寐不寧下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤスラカニ／子ラレヌ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上夢遺之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">モウ／ヰウ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>鬱症下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">キノモツレセヲ／テルヤマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>鬱冒下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウツトリトキ／ヌケノヤウナ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>膿潰下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウミニナリ／ツブレル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>苦滿下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">クルシク／ハル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>快通下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">コヽロヨク／ツウジル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>快利残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">コヽロ／ヨク</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：「解㑊」「壅閉」的位置、「咳嗽」旁讀假名及最後部首待核，右版心「十五」。 左面：左面續前頁部首，另有廢字／草體假名疑讀。「久」「牟」「称」「久之部」需覆核。左版心「十六」。</ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>解㑊</quote>
+              <note type="editorial">「解㑊」「壅閉」的位置、「咳嗽」旁讀假名及最後部首待核，右版心「十五」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>壅閉</quote>
+              <note type="editorial">「解㑊」「壅閉」的位置、「咳嗽」旁讀假名及最後部首待核，右版心「十五」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>咳嗽</quote>
+              <note type="editorial">「解㑊」「壅閉」的位置、「咳嗽」旁讀假名及最後部首待核，右版心「十五」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>久</quote>
+              <note type="editorial">左面續前頁部首，另有廢字／草體假名疑讀。「久」「牟」「称」「久之部」需覆核。左版心「十六」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>牟</quote>
+              <note type="editorial">左面續前頁部首，另有廢字／草體假名疑讀。「久」「牟」「称」「久之部」需覆核。左版心「十六」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>称</quote>
+              <note type="editorial">左面續前頁部首，另有廢字／草體假名疑讀。「久」「牟」「称」「久之部」需覆核。左版心「十六」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>久之部</quote>
+              <note type="editorial">左面續前頁部首，另有廢字／草體假名疑讀。「久」「牟」「称」「久之部」需覆核。左版心「十六」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="22" facs="#f22" />
+        <div n="22" type="scan" subtype="appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f22-r-c01">
+              <seg type="diplomatic-text">苦煩　頑麻　蚘厥　君火</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f22-r-c02">
+              <seg type="diplomatic-text">末之部　滿面　滿腫　計之部　經驗</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f22-r-c03">
+              <seg type="diplomatic-text">經病　健忘　結核　核起</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f22-r-c04">
+              <seg type="diplomatic-text">經閉　堅癖　血症</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f22-r-c05">
+              <seg type="diplomatic-text">厥寒　厥逆　胸脇逆滿　胸痛</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f22-r-c06">
+              <seg type="diplomatic-text">眩暈　踡臥　不解　結胸</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f22-r-c07">
+              <seg type="diplomatic-text">倦怠憚於動作　瘈</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f22-r-c08">
+              <seg type="diplomatic-text">瘈病　夾痰　夾血　夾癰　夾熱下利</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f22-r-c09">
+              <seg type="diplomatic-text">血室　血暈　元氣　元陽不足</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上快利之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">タ／ル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>苦煩下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ワルククツ／ナガル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>頑麻下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ワルノハタ／シビレル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>蚘厥下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">クハイチウニテ／手足マテヒヘタ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>君火残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">人ノ／モチ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上君火之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">マヘノヌク／モリヤウキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>滿面下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カホ一／ハイ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>滿腫下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">皮一ハイ／ノハレ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上經驗之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">クスリノキヽメノ／ヲホヘアルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>經病下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">女ノ血ノ／ミチ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>健忘下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">モノワ／スレ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>結核下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">スツクシタカタ／マリクサ子バイ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上核起之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ブツクシタモノ／カデキル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>經閉下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ケイコウ／メグラヌ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>堅癖下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カタキカタ／マリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>血症下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">チノデタ○或ハ内ニアル血ノ／ヤマヒコトニモ用</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>厥寒下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ノヒヘル／ヲオホヘル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>厥逆下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ノツヨク／ヒヘル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>胸脇逆滿下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ム子バリニナリ／タルハラ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上胸痛之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ム子ノ／イタミ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>眩暈下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">メマヒ／ノコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>踡臥下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ヲチヾメ／子ルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>不解下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツナントノホドケ／ヌト云コト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>結胸残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ムナ／サキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上結胸之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヘコリカタ／マルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>倦怠憚於動作下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">モノニタイクツシテタケ／イモメンドウナ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>瘈残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ヲ／ヒキツル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>瘈病下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">手足ヒキツ／ルヤマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>夾痰下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">タンヲマゼル／ヤマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>夾熱下利残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子／ツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上下利之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">タ／リ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>血室下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">チノタマリ／ドコロ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>血暈下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">血ガデヽノ／メマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>元氣下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">人ノ天ヨリ／受ルキ</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f22-l-c01">
+              <seg type="diplomatic-text">不之部　腐爛　不仁　跗上腫</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f22-l-c02">
+              <seg type="diplomatic-text">腐肉　腹中疼痛　腹中急</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f22-l-c03">
+              <seg type="diplomatic-text">腹中拘急　腹中雷鳴　腹滿</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f22-l-c04">
+              <seg type="diplomatic-text">古之部　拘攣　拘急　項背強</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f22-l-c05">
+              <seg type="diplomatic-text">狐臭　痼疾　骨痛　交骨不開</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f22-l-c06">
+              <seg type="diplomatic-text">黑瘠　合病　骨</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f22-l-c07">
+              <seg type="diplomatic-text">節疼痛　更衣　口眼喎斜　語言蹇</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f22-l-c08">
+              <seg type="diplomatic-text">渋　天之部　潮熱　腸鳴　腸癰</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f22-l-c09">
+              <seg type="diplomatic-text">溺血　轉胞　轉矢氣　安之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上元陽不足之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤウキノタモト／ビンボウシタ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腐爛下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">クサレ／タダル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>不仁下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シビレル／ヤウナ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>跗上腫下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">足ノコウ／ノハレ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腐肉下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">クサレタ／ニク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腹中疼痛下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラウチヒツ○急痛モ／ハリイタム</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腹中急残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラウ／チヒツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上腹中急之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハル／コト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腹中拘急下釋</label>
+              <seg type="diplomatic-text" rend="black">大抵／同上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腹中雷鳴下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラウチカミナリノ○切痛トアレバ／ヤウニグルグルナル シキリニイタム</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上腹滿之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラガ／ハル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>拘攣下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒキツリ／ヒツハル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>拘急下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒツハリ／ツヨキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>項背強下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">クビスヂカラセ／ガツヨクハル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>狐臭下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ワキ／ガ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>痼疾下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">コジクレタ／マツタヤマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>骨痛下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ホ子ウ／ヅク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>交骨不開残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">サンノトキニ／一ネチガヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上交骨不開之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ラカ／ヌ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>黑瘠下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">クロヤセニ／ヤセル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>合病下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">初ヨリ二經一シヨ○併病ハ初ハ一經ヤミ／ニヤムヲ云 又一經一シヨニナリヤム〳〵</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>骨節疼痛下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ホ子ブシシク／クイタム</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>更衣下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">タイベン／ユクコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>口眼喎斜下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">目クチ／ユガム</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上語言蹇渋之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">モノカイヒ／ニクヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>潮熱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">時刻ヲカキ／リデル子ツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腸鳴下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラワタ／ナル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腸癰残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラワ／タニデ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上腸癰之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">キタデキ／モノ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>溺血下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ニ血／イヅルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>轉胞下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ノ出口ガモツレ／セウベンデヌ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>轉矢氣下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヘノ／コト</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右版心「十六」。第六欄「踡」、第七欄「憚」及末數條假名待核。 左面：左版心「十七」。讀法「跗」「狐」「黑瘠」及小字續處待核。竪框「安之」轉下幅。</ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>踡</quote>
+              <note type="editorial">右版心「十六」。第六欄「踡」、第七欄「憚」及末數條假名待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>憚</quote>
+              <note type="editorial">右版心「十六」。第六欄「踡」、第七欄「憚」及末數條假名待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>跗</quote>
+              <note type="editorial">左版心「十七」。讀法「跗」「狐」「黑瘠」及小字續處待核。竪框「安之」轉下幅。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>狐</quote>
+              <note type="editorial">左版心「十七」。讀法「跗」「狐」「黑瘠」及小字續處待核。竪框「安之」轉下幅。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:6">
+              <quote>黑瘠</quote>
+              <note type="editorial">左版心「十七」。讀法「跗」「狐」「黑瘠」及小字續處待核。竪框「安之」轉下幅。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>安之</quote>
+              <note type="editorial">左版心「十七」。讀法「跗」「狐」「黑瘠」及小字續處待核。竪框「安之」轉下幅。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="23" facs="#f23" />
+        <div n="23" type="scan" subtype="appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f23-r-c01">
+              <seg type="diplomatic-text">部　噫氣　惡候　安臥　安睡　惡液</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f23-r-c02">
+              <seg type="diplomatic-text">左之部　撮空　舌無芒刺　濕</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f23-r-c03">
+              <seg type="diplomatic-text">翕々發熱　氣逆　肌熱　如狂</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f23-r-c04">
+              <seg type="diplomatic-text">驚悸　驚搐　脇惕　筋攣　吃逆</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f23-r-c05">
+              <seg type="diplomatic-text">芻坐　美之部　脉絕　脉和　脉沈</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f23-r-c06">
+              <seg type="diplomatic-text">濇　緊　弦　微　細　滑　結</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f23-r-c07">
+              <seg type="diplomatic-text">促　代　弱　動　之之部　嗇々惡</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f23-r-c08">
+              <seg type="diplomatic-text">寒　心下痞鞕　心下悸</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f23-r-c09">
+              <seg type="diplomatic-text">心下動　身痛　身熱　腫脹</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>噫氣下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲクビ／ノケ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>惡候下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アシキヤウ／ダイ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>安臥下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">コヽロヨク／子ル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>安睡下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">コヽロヨク／子ムル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上惡液之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチノウルホヒ／クサレタモノ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>撮空下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ナニモナキトコロヲ／ツマム手モブリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>舌無芒刺下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツツヨキトキハ舌ノイボ〳〵ニ針ノ／ヤウナモノガデキルソレガナイ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>濕下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シツケニアタリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上濕之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ツチ／ガル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>翕々發熱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">パツ〳〵ト／デル子ツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>氣逆下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">キガノ／ボセル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>肌熱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハダニ子ツ／ノアルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>如狂下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">キチガヒ／ノヤウナ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>驚悸下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">モノニヲビヘ／ムナサワギ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>驚搐下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲビヘ／ビクツク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>脇惕下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">スヂヒキツリ／ヲトルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>筋攣下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">スヂヒツ／ハル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>吃逆旁小字</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">キツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上吃逆之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シヤ／クリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>芻坐下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">イモクシ／ミツチヤ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>脉絕下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ミヤク／アガル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>脉和下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ミヤクヨク／ナルコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>脉沈残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">脉／シ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上脉沈之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ツミウコ／ニウツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>濇下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シブク／フナ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>緊下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シコニテ／ヒツバル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>弦下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウハベテ／ヒツバル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>微下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カスカ／ナル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>細下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ホソ／シ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>滑下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤドリ／ナイ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>結残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">脉ノウツ／カズスグ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上結之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">チクシテ／ウチキレ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>促下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">セハシクウツテ／ウチキレル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>代下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">セングリカ／ワル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>弱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヨハ／キ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>動下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">フトクシテ／タヨリナヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>嗇々惡寒下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ジミ〳〵シメツケル／ヤウナサムケ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>心下痞鞕下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ムナサキツカヘ／カタマル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>心下悸下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ムナサキドキ〳〵／ムナサワギ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>心下動下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ムナサキノ／ドウキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>身痛下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダウチ／イタム</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>身熱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">肌熱ニ似テソコ／ニテツヨキ子ツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腫脹下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハレフ／クル</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f23-l-c01">
+              <seg type="diplomatic-text">腫滿　宿酲　自汗　脣口乾燥</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f23-l-c02">
+              <seg type="diplomatic-text">心煩　舌無芒刺　濕</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f23-l-c03">
+              <seg type="diplomatic-text">小便淋瀝　小腹滿如敦狀　几々</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f23-l-c04">
+              <seg type="diplomatic-text">手足攣蜷　失溲　嗜臥　惠之</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f23-l-c05">
+              <seg type="diplomatic-text">部　噦逆　越經　壞病　比之</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f23-l-c06">
+              <seg type="diplomatic-text">部　引日　微熱　微渴　微溏　鼻息</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f23-l-c07">
+              <seg type="diplomatic-text">鼾　毛之部　摸床　妄語</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f23-l-c08">
+              <seg type="diplomatic-text">妄言　悶絕　世之部　聲啞　消渴</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f23-l-c09">
+              <seg type="diplomatic-text">讝語　泄寫　折傷　漸々</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腫滿下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">一ハイニ／ハレル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>宿酲下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">酒ノ二日／ヨヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>自汗下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒトリデノ／アセ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>脣口乾燥下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">クチビルクチ／カハラグ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>心煩下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シンヤラシエツ／ナガル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>舌無芒刺下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツツヨキトキハ舌ノイボ〳〵ニ針ノ／ヤウナモノガデキルソレガナイ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>濕下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シツケニアタリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>小便淋瀝下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">小便チビ〳〵／ホカデヌ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>小腹滿如敦狀下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シタハラガハツテオサカ／ヅキヲフセタヤウナ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>几々小字</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シヨ〳〵</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上几々之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カタノハリ／ツヨキコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>手足攣蜷下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">手足カ／ナハヌ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>失溲下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ヲ／ハヅス</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>嗜臥下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子テバカ／リイル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>噦逆下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ツヨキシヤ／クリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>越經下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">傷寒十二日スキテ／子ツノサメヌヲ云</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>壞病下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ナホリソコ子タ／ヤマヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>引日下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒニチカ／カル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>微熱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">スコシノ／子ツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>微渴下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">スコシノ／カワキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>微溏下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">スコシ大便／カクダル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上鼻息鼾之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハナイキガイヅレ／イビキヲカク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>摸床下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ドコロヲサグリ／ニハステモブリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>妄語下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ワケモナイコト／シウハコトイフ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>妄言下釋</label>
+              <seg type="diplomatic-text" rend="black">同／上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>悶絕下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">モタヘクルシミ／イキシレル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>聲啞下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">コヘガ／カレル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>消渴残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">食モノ飲／モノツ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上消渴之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">タムセウ／ニクウ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>讝語下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウハ○讝聲ハ同ジコトヲイク／ヘンモイフヲ云</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>泄寫下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラク／ダル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>折傷下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウチミ／クヂキ</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：牌記與片假名釋文仍有待核處。「芻坐」「脇惕」「痞鞕」以目前可見字形錄。右版心「十七」。 左面：左版心「十八」。第2欄詞面與右頁相同但依兩面各存；「敦」「几」「寫」「讝」及小字待核。</ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>芻坐</quote>
+              <note type="editorial">牌記與片假名釋文仍有待核處。「芻坐」「脇惕」「痞鞕」以目前可見字形錄。右版心「十七」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>脇惕</quote>
+              <note type="editorial">牌記與片假名釋文仍有待核處。「芻坐」「脇惕」「痞鞕」以目前可見字形錄。右版心「十七」。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>痞鞕</quote>
+              <note type="editorial">牌記與片假名釋文仍有待核處。「芻坐」「脇惕」「痞鞕」以目前可見字形錄。右版心「十七」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>敦</quote>
+              <note type="editorial">左版心「十八」。第2欄詞面與右頁相同但依兩面各存；「敦」「几」「寫」「讝」及小字待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>几</quote>
+              <note type="editorial">左版心「十八」。第2欄詞面與右頁相同但依兩面各存；「敦」「几」「寫」「讝」及小字待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>寫</quote>
+              <note type="editorial">左版心「十八」。第2欄詞面與右頁相同但依兩面各存；「敦」「几」「寫」「讝」及小字待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:9">
+              <quote>讝</quote>
+              <note type="editorial">左版心「十八」。第2欄詞面與右頁相同但依兩面各存；「敦」「几」「寫」「讝」及小字待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="24" facs="#f24" />
+        <div n="24" type="scan" subtype="appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f24-r-c01">
+              <seg type="diplomatic-text">惡風　清穀不止　絕汗　喘咳</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f24-r-c02">
+              <seg type="diplomatic-text">喘滿　戰汗　戰慄　舌胎</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f24-r-c03">
+              <seg type="diplomatic-text">滑舌　相火</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f24-r-c04">
+              <seg type="diplomatic-text">肢體</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f24-r-c05">
+              <seg type="diplomatic-text">以　胃中　陰莖　陰門　陰事　陰所</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f24-r-c06">
+              <seg type="diplomatic-text">陰卵　委中　呂　六腑　仁</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f24-r-c07">
+              <seg type="diplomatic-text">任用　保　膀胱　土　督脉</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f24-r-c08">
+              <seg type="diplomatic-text">知　人迎　地倉脉　膈幕</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f24-r-c09">
+              <seg type="diplomatic-text">爪甲　腠理　雙胎　頭腦　絡脉</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>惡風下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">風ニアタルト水ヲ／カブルヤウニ覺ル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>清穀不止下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">食物生ニテ下リ／ヤマヌ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>絕汗下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シニシナ／ノアセ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>喘咳残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ゼ／リ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上喘咳之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ゼリイヒ／セク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>喘滿下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">痰ガセリ／ツメル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>戰汗下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">フルヒガデヽ／アセヲスル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>戰慄下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">フルヒノ／ツヨキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>舌胎残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シタニコケノ／ツクコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上舌胎之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">胎ハアツヲモヌシメリ○無皮トハ舌タヾレイボ〳〵／シタ舌ヲ云 ナシニ皮ノナキヤウニミヘル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>相火下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">人ノウゴクヨリ／出ル火ノコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>胃中下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヱブクロ／ノウチ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>陰莖下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヘノ／コ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>陰門下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲメ／コ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>陰事下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ツルム／コト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>陰所下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">内ワカクル／トコロ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>陰卵下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">キン／タマ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>委中下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒザノウラオリカヾミノ／クネミテ脉ノウツトコロ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>六腑下釋</label>
+              <seg type="diplomatic-text" rend="black">胃膽膀光大腸／小腸心包絡</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>任用下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">鼻ノシタヨリ前／ノミ中通リ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>膀胱下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">小便ノアル／トコロ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>督脉下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">鼻ノ上ヨリウシロヘマハ／リセノミ中ドフリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>人迎下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ミヽノシタノトノ／ワキニアル脉</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>地倉脉下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">口ノ両ワキニ／アル脉</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>膈幕下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハラワタノ○幕原／フリ ナリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>爪甲下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ツメノ／ウヘ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腠理下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ケア／ナ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>雙胎下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">フタ／ゴ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>頭腦下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アタマノ／ヅゲン</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>絡脉下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダノアホ／スヂニリ</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f24-l-c01">
+              <seg type="diplomatic-text">腦後　肩背　牙齒　牙根</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f24-l-c02">
+              <seg type="diplomatic-text">子　股胸　顴骨　血室　骨髓　五</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f24-l-c03">
+              <seg type="diplomatic-text">藏　缺盆　口吻　口角　睪丸</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f24-l-c04">
+              <seg type="diplomatic-text">穀道　趺陽脉　榮衛</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f24-l-c05">
+              <seg type="diplomatic-text">三部脉　三焦　鳩尾</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f24-l-c06">
+              <seg type="diplomatic-text">期門　玉門　面部　四肢　神穴</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f24-l-c07">
+              <seg type="diplomatic-text">手掌　尺澤　百會</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f24-l-c08">
+              <seg type="diplomatic-text">鼻梁骨　臂膞　牝戶　尾骶骨</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f24-l-c09">
+              <seg type="diplomatic-text">小腹　正氣　寸口脉</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腦後上二細欄</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">○溢ルトイヘバフトル／兆ムトイフハホソル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>腦後下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウシロノ／ミヅクボ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>肩背下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カタ／セナカ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>牙齒下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">キ／バ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>股胸下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アバラ／ム子</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>顴骨下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ホウ／ホ子</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>血室下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">血ノタマリ／ドコロ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>骨髓下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ホ子ホ子ノ中／ノアブラ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>五藏下釋</label>
+              <seg type="diplomatic-text" rend="black">肺肝脾／心腎</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>缺盆下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ノドノ両方骨／ノクボミノ処</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>口吻下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">クチノ／ワキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>口角下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">口ノ／スミ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>睪丸残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">キン／タマ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>穀道下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シリノ／アナ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>趺陽脉下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アシノコウ／ノミヤク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>榮衛下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">榮ハ内ヲマワリウルホスキ／衛ハ外ヲマワリマモルキ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>三部脉下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">一トフリ脉／ヲミル処</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>三焦下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">胸ヨリ上ヲ上焦ト云胸ヨリ臍マテヲ／中焦ト云臍ヨリ下ヲ下焦ト云</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上鳩尾之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ミゾ／ヲチ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>期門下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ミゾヲチヨリ二寸／バカリ横ノ下ニ有</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>玉門下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">陰門／ノコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>面部下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カホノ／コト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>四肢下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">手ト／アシ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上神穴之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヘ／ソ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>手掌下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">テノヒラ○足ノウラハ○湧泉／足心ノ穴</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>尺澤下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">手ノフリカヾミ／脉ノウツトコロ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>百會残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲド／ノコ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>鼻梁骨下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ハナバシ／ラ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>臂膞下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">臂ハウデヨリヒヂマデ／膞ハヒヂヨリカタマデノ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>牝戶下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">陰門／ノコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>尾骶骨残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カメノ／ヲ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>小腹下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シタ／ハラ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>正氣下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">人ノ生アル／モトノ氣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>寸口脉下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">一通リ脉ヲミルヒトサシ／ユビノアタル所</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右版心「十八」。「任用」「膀光」「膈幕」及小字待核；「肢體」轉為新釋義類。 左面：左版心「十九」。「股胸」「臂膞」「骶」與細字待覆核，牙根接下一欄首字「子」。</ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>任用</quote>
+              <note type="editorial">右版心「十八」。「任用」「膀光」「膈幕」及小字待核；「肢體」轉為新釋義類。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>膈幕</quote>
+              <note type="editorial">右版心「十八」。「任用」「膀光」「膈幕」及小字待核；「肢體」轉為新釋義類。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>肢體</quote>
+              <note type="editorial">右版心「十八」。「任用」「膀光」「膈幕」及小字待核；「肢體」轉為新釋義類。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>股胸</quote>
+              <note type="editorial">左版心「十九」。「股胸」「臂膞」「骶」與細字待覆核，牙根接下一欄首字「子」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>臂膞</quote>
+              <note type="editorial">左版心「十九」。「股胸」「臂膞」「骶」與細字待覆核，牙根接下一欄首字「子」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>骶</quote>
+              <note type="editorial">左版心「十九」。「股胸」「臂膞」「骶」與細字待覆核，牙根接下一欄首字「子」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>子</quote>
+              <note type="editorial">左版心「十九」。「股胸」「臂膞」「骶」與細字待覆核，牙根接下一欄首字「子」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="25" facs="#f25" />
+        <div n="25" type="scan" subtype="appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f25-r-c01">
+              <seg type="diplomatic-text">飲食并雜</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f25-r-c02">
+              <seg type="diplomatic-text">異物　乳汁　白湯　白飲　和解　涼</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f25-r-c03">
+              <seg type="diplomatic-text">補　溫補　水漿　涼劑　寒劑　冷</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f25-r-c04">
+              <seg type="diplomatic-text">飲　熱服　熱飲　熱稀粥　糜</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f25-r-c05">
+              <seg type="diplomatic-text">粥　倉卒　粘着　經驗　擺藥　稟受</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f25-r-c06">
+              <seg type="diplomatic-text">文火　武火　溫覆　遍身熱々</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f25-r-c07">
+              <seg type="diplomatic-text">溫々欲吐　房事　陽物</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>異物下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">シヌルト云／トキ用ユ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>乳汁下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">チヽ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>白飲下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">サユ／ノコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>和解下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヤハラゲ／ホドク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上涼補之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">熱ヲサマス／ヲギナイコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>溫補下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アタヽメ／ヲギナヒ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>水漿下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ユミヅ／食物</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>涼劑下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子ツヲサマス／クスリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>寒劑下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヒヤス／クスリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上冷飲之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">藥ニテモ湯ニテ／モサマシテモチユル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>熱服下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アツクシテ／モチユ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>熱飲下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">アツイノ／ミモノ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>熱稀粥下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">湯ノヲヽキ／カユ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上糜粥之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カユ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>倉卒下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ニハカ／ノコト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>粘着下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">子バリ／ツク</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>經驗下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">クスリノ／キヽメ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>擺藥下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">フリダシ／グスリ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>稟受残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ウ／マ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上稟受之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">レツ／キ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>文火下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ソロ〳〵／火</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>武火下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ニワカ／火</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>溫覆下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">風ノアタラヌヨウ／アタヽカニカブル</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>遍身熱々残釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">カラダ／ウチシ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>承上遍身熱々之釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">メジメ〳〵／スルホド</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>溫々欲吐下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ムカ〳〵シテ／ハキソフナ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>房事下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ツルム／コト</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>陽物下釋</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヘノ／コ</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f25-l-c01">
+              <seg type="diplomatic-text">一　凡用漢文述醫按者多是諸大名家之事</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f25-l-c02">
+              <seg type="diplomatic-text">至如紳縉家余未有之聞唯揭俗間所謂</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f25-l-c03">
+              <seg type="diplomatic-text">御容體書例于此</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f25-l-c04">
+              <seg type="diplomatic-text">書法　奉書四ツ折先ツ横ニ二ツニ折テ其ヲ四ニ折</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f25-l-c05">
+              <seg type="diplomatic-text">長文ナレバ裏ヘ廻シ又幾枚ニテモ同ジコトニ書</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f25-l-c06">
+              <seg type="diplomatic-text">表包ハ美濃紙ニテ何々樣御容躰書</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f25-l-c07">
+              <seg type="diplomatic-text">ト書ナリ　字形ハ行書位ニテ草書モ</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f25-l-c08">
+              <seg type="diplomatic-text">アルベシ何レ餘リ略字ハ無禮ナリ</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f25-l-c09">
+              <seg type="diplomatic-text">御容體書</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>摺紙圖上二處題記</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">四ツ／折</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>摺紙圖內文字</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">御容躰／〳敷</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右版心「十九」。頁左灰字屬透頁。「熱々」「攞／擺」及個別假名待核。 左面：開始「御容體書」附錄。橫向摺紙圖有四格，兩中格以短豎線示寫字行；放大圖示題記另存。末欄「躰」與附錄語句按可見日文體裁。</ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>熱々</quote>
+              <note type="editorial">右版心「十九」。頁左灰字屬透頁。「熱々」「攞／擺」及個別假名待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="26" facs="#f26" />
+        <div n="26" type="scan" subtype="appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f26-r-c01">
+              <seg type="diplomatic-text">－－－樣從－月－日御頭痛御熱氣強御脉</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f26-r-c02">
+              <seg type="diplomatic-text">浮數惡寒等被爲在候付傷寒論中葛根湯</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f26-r-c03">
+              <seg type="diplomatic-text">柴胡相加差上候處御頭痛等被爲止御表</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f26-r-c04">
+              <seg type="diplomatic-text">熱大退申候仍共御食味增氣苦被爲覺御胸</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f26-r-c05">
+              <seg type="diplomatic-text">腹滿之狀有伺候ニ付宋板傷寒論中之大柴</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f26-r-c06">
+              <seg type="diplomatic-text">胡湯差上申候右今日御熱退ヽ－－－－－－</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f26-r-c07">
+              <seg type="diplomatic-text">御諸症共御靜被爲在候以上</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f26-r-c08">
+              <seg type="diplomatic-text">醫名</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f26-r-c09">
+              <seg type="diplomatic-text">－月－日　－－</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>御靜右側淡墨</label>
+              <seg type="diplomatic-text" rend="black">愈</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f26-l-c01">
+              <seg type="diplomatic-text">同</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f26-l-c02">
+              <seg type="diplomatic-text">○○○樣御不豫初起－－－－</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f26-l-c03">
+              <seg type="diplomatic-text">追々御氣力御疲被爲在候相伺候ニ付私共一</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f26-l-c04">
+              <seg type="diplomatic-text">統相譚之上補氣湯差上申候何共御氣遣</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f26-l-c05">
+              <seg type="diplomatic-text">敷御容躰奉伺候以上</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f26-l-c06">
+              <seg type="diplomatic-text">醫名－－</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f26-l-c07">
+              <seg type="diplomatic-text">月日　－－</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f26-l-c08">
+              <seg type="diplomatic-text">同</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f26-l-c09">
+              <seg type="diplomatic-text">－－－樣御容體追々御疲甚敷昨夕分御手</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>豫旁小字</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ザヨ／メゾンジ</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>初起後兩細欄</label>
+              <seg type="diplomatic-text" rend="black">隨其疾長短應／其時可書</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>甚旁小字</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="ja">ヲモ</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：直豎空格符號記作「－」。「御靜」旁字可能墨批，分開記。第五欄「滿」、第六欄「今日」待核。 左面：左版心「廿一」，欄內書簡留白。第二欄短句假名、第四欄「相譚」及末兩欄「御疲」待核。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote>－</quote>
+              <note type="editorial">直豎空格符號記作「－」。「御靜」旁字可能墨批，分開記。第五欄「滿」、第六欄「今日」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>御靜</quote>
+              <note type="editorial">直豎空格符號記作「－」。「御靜」旁字可能墨批，分開記。第五欄「滿」、第六欄「今日」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>滿</quote>
+              <note type="editorial">直豎空格符號記作「－」。「御靜」旁字可能墨批，分開記。第五欄「滿」、第六欄「今日」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>今日</quote>
+              <note type="editorial">直豎空格符號記作「－」。「御靜」旁字可能墨批，分開記。第五欄「滿」、第六欄「今日」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>相譚</quote>
+              <note type="editorial">左版心「廿一」，欄內書簡留白。第二欄短句假名、第四欄「相譚」及末兩欄「御疲」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>御疲</quote>
+              <note type="editorial">左版心「廿一」，欄內書簡留白。第二欄短句假名、第四欄「相譚」及末兩欄「御疲」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="27" facs="#f27" />
+        <div n="27" type="scan" subtype="appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f27-r-c01">
+              <seg type="diplomatic-text">足御厥冷被爲在候ニ付私共一統相談之上</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f27-r-c02">
+              <seg type="diplomatic-text">何分四逆加人參湯差上申度異々御危篤</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f27-r-c03">
+              <seg type="diplomatic-text">思入候御容體奉伺候以上</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f27-r-c04">
+              <seg type="diplomatic-text">月日　醫名如前</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f27-r-c05">
+              <seg type="diplomatic-text">縉紳家下使者有賜物則先答使者以落手</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f27-r-c06">
+              <seg type="diplomatic-text">書</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f27-r-c07">
+              <seg type="diplomatic-text">爲　之御祝儀方金－－疋綿　把被</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f27-r-c08">
+              <seg type="diplomatic-text">下置難有頂戴仕候猶參</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f27-r-c09">
+              <seg type="diplomatic-text">殿之上御禮可申上候以上</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>書旁小字</label>
+              <seg type="diplomatic-text" rend="black">奉書半切</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>爲側雙行字例</label>
+              <seg type="diplomatic-text" rend="black">歲末／中元</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f27-l-c01">
+              <seg type="diplomatic-text">月日</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f27-l-c02">
+              <seg type="diplomatic-text">○○樣御使</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f27-l-c03">
+              <seg type="diplomatic-text">○○誰投</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f27-l-c04">
+              <seg type="diplomatic-text">右參殿之上手扣</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f27-l-c05">
+              <seg type="diplomatic-text">口述</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f27-l-c06">
+              <seg type="diplomatic-text">昨日者蒙　御使令爲－－　御祝儀御目</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f27-l-c07">
+              <seg type="diplomatic-text">錄并結構之品々拜領被　仰付難有頂</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f27-l-c08">
+              <seg type="diplomatic-text">戴仕候爲御禮御請參</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f27-l-c09">
+              <seg type="diplomatic-text">殿仕候御序之節宜御取成御沙汰被下</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text">
+              <label>空名旁小字</label>
+              <seg type="diplomatic-text" rend="black">姓</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右第一欄的「足」續前幅「御手」，原文和式。「御危篤」「綿」「猶參」待核。 左面：保留上書日期姓名留白。「誰投」「上手扣」「口述」待核，左版心「廿二」。</ab>
+            <ab type="transcription-issue" n="right:1">
+              <quote>足</quote>
+              <note type="editorial">右第一欄的「足」續前幅「御手」，原文和式。「御危篤」「綿」「猶參」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>御危篤</quote>
+              <note type="editorial">右第一欄的「足」續前幅「御手」，原文和式。「御危篤」「綿」「猶參」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>綿</quote>
+              <note type="editorial">右第一欄的「足」續前幅「御手」，原文和式。「御危篤」「綿」「猶參」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>猶參</quote>
+              <note type="editorial">右第一欄的「足」續前幅「御手」，原文和式。「御危篤」「綿」「猶參」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>誰投</quote>
+              <note type="editorial">保留上書日期姓名留白。「誰投」「上手扣」「口述」待核，左版心「廿二」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>上手扣</quote>
+              <note type="editorial">保留上書日期姓名留白。「誰投」「上手扣」「口述」待核，左版心「廿二」。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>口述</quote>
+              <note type="editorial">保留上書日期姓名留白。「誰投」「上手扣」「口述」待核，左版心「廿二」。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="28" facs="#f28" />
+        <div n="28" type="scan" subtype="appendix">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f28-r-c01">
+              <seg type="diplomatic-text">度奉賴上候以上</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f28-r-c02">
+              <seg type="diplomatic-text">月日　醫名</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f28-r-c03">
+              <seg type="diplomatic-text">御取次御中□</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f28-r-c04">
+              <seg type="diplomatic-text">右附錄請之家大人一以導童輩一以爲</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f28-r-c05">
+              <seg type="diplomatic-text">不習縉紳事實人</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f28-r-c06">
+              <seg type="diplomatic-text">男　好謙　誌</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="page-feature" subtype="handwritten-marginal-note">
+              <label>襯紙右下墨題</label>
+              <seg type="diplomatic-text" rend="black">山越／戒三</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：末頁署「男 好謙 誌」；第三欄末字漫漶，留□。上左朱印及近頁腳方印另見原圖。右版心「廿三」。 左面：左為後封裡，有黑色篆字方形題記、灰色筆跡、黑色試筆與淡紫直印；篆字和紫印未定，墨題待核。</ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>□</quote>
+              <note type="editorial">原圖字形未定，□為整理記號。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">左為後封裡，有黑色篆字方形題記、灰色筆跡、黑色試筆與淡紫直印；篆字和紫印未定，墨題待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="29" facs="#f29" />
+        <div n="29" type="scan" subtype="binding-or-cover">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：藍色原書後封無題，見左側繫線、紙纖維及汙痕。</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
